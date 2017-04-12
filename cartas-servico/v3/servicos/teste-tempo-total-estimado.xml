@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-tempo-total-estimado</id>
+    <dbId>39</dbId>
+    <nome>Teste Tempo Total Estimado</nome>
+    <sigla>TTTE</sigla>
+    <nomes-populares>
+        <item id="28">Tempo Estimado</item>
+    </nomes-populares>
+    <descricao>Teste Tempo Total Estimado</descricao>
+    <contato>Teste Tempo Total Estimado</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="49">
+            <tipo>Teste Tempo Total Estimado</tipo>
+            <requisitos>Teste Tempo Total Estimado</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre min="30" max="60" unidade="minutos"/>
+        <descricao>Teste Tempo Total Estimado</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao>Teste Tempo Total Estimado</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="59">
+            <titulo>Teste Tempo Total Estimado</titulo>
+            <descricao>Teste Tempo Total Estimado</descricao>
+            <documentos>
+                <default>
+                    <item id="133">Teste Tempo Total Estimado</item>
+                </default>
+                <caso id="26" descricao="Teste Tempo Total Estimado">
+                    <documento>
+                        <id>132</id>
+                        <descricao>Teste Tempo Total Estimado</descricao>
+                    </documento>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="75" tipo="e-mail">
+                        <descricao>Teste Tempo Total Estimado</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="61283" dbId="794">
+        <nomeOrgao>Administração (ADM-HP)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="50">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="103">a</item>
+        <item id="104">b</item>
+        <item id="105">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="39">Teste Tempo Total Estimado</item>
+    </legislacoes>
+</servico>
