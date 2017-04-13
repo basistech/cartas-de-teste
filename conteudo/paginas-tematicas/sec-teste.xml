@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica>
+    <conteudo>Teste</conteudo>
+    <dbId>14</dbId>
+    <nome>Sec Teste</nome>
+    <orgaos>
+        <orgao id="207812" dbId="41701">
+            <nomeOrgao>Secretaria (EE3-SEC)</nomeOrgao>
+        </orgao>
+        <orgao id="207378" dbId="41696">
+            <nomeOrgao>Secretaria (AB6-4)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
