@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>patinho</id>
+    <dbId>2</dbId>
+    <nome>Patinho</nome>
+    <sigla>PATO</sigla>
+    <nomes-populares>
+        <item id="2">Patinho</item>
+    </nomes-populares>
+    <descricao>Comprei um patinho</descricao>
+    <contato>teste</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="2">
+            <tipo>Patinho dois</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="20" unidade="minutos"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="2">
+            <titulo>COMPRAR O PATO</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default>
+                    <item id="2">Patinho</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="2" tipo="web-inscrever-se">
+                        <descricao>teste</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="207309" dbId="41697">
+        <nomeOrgao>Secretaria (207309)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="2">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="4">um patinho</item>
+        <item id="5">dois patinhos</item>
+        <item id="6">tres patinhos</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2">Patiin</item>
+    </legislacoes>
+</servico>
