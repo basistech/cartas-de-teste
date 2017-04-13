@@ -10,7 +10,7 @@
     <descricao>Ygor</descricao>
     <contato>Ygor</contato>
     <gratuito>true</gratuito>
-    <porcentagem-digital>87</porcentagem-digital>
+    <porcentagem>87</porcentagem>
     <solicitantes>
         <solicitante id="39">
             <tipo>Ygor</tipo>
@@ -44,13 +44,15 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao id="64" tipo="e-mail">
-                        <descricao>Ygor</descricao>
+                        <descricao>y@g.or</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="61283"/>
+    <orgao id="61283" dbId="794">
+        <nomeOrgao>Administração (ADM-HP)</nomeOrgao>
+    </orgao>
     <segmentos-da-sociedade>
         <item idSegmento="1" idServicoSegmento="39">Cidadãos</item>
     </segmentos-da-sociedade>
