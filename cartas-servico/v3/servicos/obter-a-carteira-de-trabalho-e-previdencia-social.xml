@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>obter-a-carteira-de-trabalho-e-previdencia-social</id>
+    <dbId>43</dbId>
+    <nome>Obter a Carteira de Trabalho e Previdência Social</nome>
+    <sigla>CTPS</sigla>
+    <nomes-populares>
+        <item id="36">carta de trabalho</item>
+        <item id="37">carteira de trabalho.</item>
+        <item id="38">documento de trabalho</item>
+    </nomes-populares>
+    <descricao>A Carteira de Trabalho é o documento usado para registrar a vida funcional de todo trabalhador brasileiro que preste algum tipo de serviço, com exceção dos servidores públicos efetivos. É o principal instrumento para garantir o acesso aos direitos trabalhistas garantidos em lei ao trabalhador.</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="59">
+            <tipo>Cidadão Brasileiro</tipo>
+            <requisitos>Brasileiro nato ou naturalizado com 14 anos ou mais de idade.</requisitos>
+        </solicitante>
+        <solicitante id="60">
+            <tipo>Estrangeiro residente permanente ou Cidadão do Mercosul</tipo>
+            <requisitos>Estrangeiro com visto permanente, que seja cidadão de país que faz parte do Acordo do Mercosul ou que seja residente refugiado e tenha 14 anos ou mais de idade.</requisitos>
+        </solicitante>
+        <solicitante id="61">
+            <tipo>Estrangeiro temporário</tipo>
+            <requisitos>Estrangeiro com visto temporário que tenha 14 anos ou mais de idade.</requisitos>
+        </solicitante>
+        <solicitante id="62">
+            <tipo>Candidato a refúgio</tipo>
+            <requisitos>Estrangeiro com processo de pedido de refúgio que tenha 14 anos ou mais de idade.</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="2" unidade="dias-uteis"/>
+        <descricao>Dependendo da região, época do ano e procura do serviço,  o serviço pode vir a demorar excepcionalmente até 7 dias.</descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="67">
+            <titulo>Agendar atendimento</titulo>
+            <descricao>Você irá acessar a página do Sistema de Atendimento Agendado do MTPS, preencher os dados necessários e agendar seu atendimento.</descricao>
+            <documentos>
+                <default>
+                    <item id="151">Número do CPF;</item>
+                    <item id="152">Data de nascimento;</item>
+                    <item id="153">Informações de contato.</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="83" tipo="web">
+                        <descricao>http://saaweb.mte.gov.br/inter/saa/pages/agendamento/main.seam?conversationPropagation=none</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="68">
+            <titulo>Ir, com a documentação necessária, ao local indicado no agendamento</titulo>
+            <descricao>Você irá ao local escolhido na data e horário definidos na etapa anterior, levando a documentação necessária para requisitar a CTPS.</descricao>
+            <documentos>
+                <default>
+                    <item id="154">Cadastro de Pessoa Física - CPF;</item>
+                    <item id="155">Comprovante de residência com CEP;</item>
+                    <item id="156">Foto 3x4, com fundo branco, com ou sem data, colorida e recente, que identifique plenamente o solicitante; para o caso de ser necessária a emissão manual da CTPS; e</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="84" tipo="presencial">
+                        <descricao>Local escolhido no agendamento.</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="69">
+            <titulo>Receber a CTPS</titulo>
+            <descricao>Entregue toda a documentação, e ela estando em ordem, você receberá sua carteira de trabalho.</descricao>
+            <documentos>
+                <default>
+                    <item id="157">Não há documentação necessária nesta etapa</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="85" tipo="presencial">
+                        <descricao>No local escolhido no agendamento</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="2844" dbId="37546">
+        <nomeOrgao>Ministério do Trabalho (MTB)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="52">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Trabalho</item>
+        <item>Fomento ao Trabalho</item>
+        <item>Proteção e Benefícios ao Trabalhador</item>
+        <item>Relações de Trabalho</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="115">emprego</item>
+        <item id="116">carteira assinada</item>
+        <item id="117">direitos dos trabalhador</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="41">[DECRETO-LEI Nº 5.452, DE 1º DE MAIO DE 1943](https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452.htm)</item>
+    </legislacoes>
+</servico>
