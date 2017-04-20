@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>servtest</id>
+    <dbId>38</dbId>
+    <nome>ServTest</nome>
+    <sigla></sigla>
+    <descricao>ServTest</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="48">
+            <tipo>ServTest</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="58">
+            <titulo>ServTest</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="74" tipo="e-mail">
+                        <descricao>ServTest</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="207378" dbId="41696">
+        <nomeOrgao>Secretaria (AB6-4)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="49">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="100">a</item>
+        <item id="101">b</item>
+        <item id="102">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="38">ServTest</item>
+    </legislacoes>
+</servico>

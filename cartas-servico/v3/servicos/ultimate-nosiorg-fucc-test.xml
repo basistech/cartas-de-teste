@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>ultimate-nosiorg-fucc-test</id>
+    <dbId>40</dbId>
+    <nome>Ultimate NoSiorg Fucc Test</nome>
+    <sigla>FCC</sigla>
+    <nomes-populares>
+        <item id="29">Ultimate NoSiorg Fucc Test</item>
+    </nomes-populares>
+    <descricao>Ultimate NoSiorg Fucc Test</descricao>
+    <contato>Ultimate NoSiorg Fucc Test</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="50">
+            <tipo>Ultimate NoSiorg Fucc Test</tipo>
+            <requisitos>Ultimate NoSiorg Fucc Test</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao>Ultimate NoSiorg Fucc Test</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao>Ultimate NoSiorg Fucc Test</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="60">
+            <titulo>Ultimate NoSiorg Fucc Test</titulo>
+            <descricao>Ultimate NoSiorg Fucc Test</descricao>
+            <documentos>
+                <default>
+                    <item id="134">Ultimate NoSiorg Fucc Test 1</item>
+                    <item id="135">Ultimate NoSiorg Fucc Test 2</item>
+                    <item id="136">Ultimate NoSiorg Fucc Test 3</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="76" tipo="e-mail">
+                        <descricao>Ultimate NoSiorg Fucc Test</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="117206" dbId="56535">
+        <nomeOrgao>Tesouraria (TESOUR/CPTL)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="51">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="106">a</item>
+        <item id="107">b</item>
+        <item id="108">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="40">Ultimate NoSiorg Fucc Test</item>
+    </legislacoes>
+</servico>
