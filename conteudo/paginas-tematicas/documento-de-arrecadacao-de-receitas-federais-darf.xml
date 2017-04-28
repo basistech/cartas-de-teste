@@ -32,8 +32,14 @@ Você pode pagar o Darf, mesmo sem código de barras, em terminais de autoatendi
     <dbId>7</dbId>
     <nome>Documento de Arrecadação de Receitas Federais (Darf)</nome>
     <orgaos>
-        <orgao dbId="794"/>
-        <orgao dbId="41696"/>
-        <orgao dbId="41695"/>
+        <orgao id="61283" dbId="794">
+            <nomeOrgao>Administração (ADM-HP)</nomeOrgao>
+        </orgao>
+        <orgao id="207378" dbId="41696">
+            <nomeOrgao>Secretaria (AB6-4)</nomeOrgao>
+        </orgao>
+        <orgao id="40897" dbId="41695">
+            <nomeOrgao>SecretarIa Administrativa (SADM-DFILIB)</nomeOrgao>
+        </orgao>
     </orgaos>
 </pagina-tematica>
