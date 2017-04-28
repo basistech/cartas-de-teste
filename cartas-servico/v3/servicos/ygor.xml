@@ -11,7 +11,7 @@
     <contato>Ygor</contato>
     <gratuito>true</gratuito>
     <porcentagem>87</porcentagem>
-    <porcentagem-manual>false</porcentagem-manual>
+    <porcentagem-manual>true</porcentagem-manual>
     <solicitantes>
         <solicitante id="39">
             <tipo>Ygor</tipo>
