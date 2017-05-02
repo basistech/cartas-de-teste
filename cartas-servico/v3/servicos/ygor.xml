@@ -30,7 +30,7 @@
     </validade-documento>
     <etapas>
         <etapa id="48">
-            <titulo>Título da etapa 1</titulo>
+            <titulo>Mobile</titulo>
             <descricao>Descrição da etapa 1</descricao>
             <documentos>
                 <default>
@@ -44,8 +44,331 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="64" tipo="e-mail">
-                        <descricao>y@g.or</descricao>
+                    <canal-de-prestacao id="64" tipo="aplicativo-movel">
+                        <descricao>Mobile</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="70">
+            <titulo>Email</titulo>
+            <descricao>Email</descricao>
+            <documentos>
+                <default>
+                    <item id="158">Email</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="86" tipo="e-mail">
+                        <descricao>Email</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="71">
+            <titulo>Fax</titulo>
+            <descricao>Fax</descricao>
+            <documentos>
+                <default>
+                    <item id="159">Fax</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="87" tipo="fax">
+                        <descricao>Fax</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="72">
+            <titulo>Postal</titulo>
+            <descricao>Postal</descricao>
+            <documentos>
+                <default>
+                    <item id="160">Postal</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="88" tipo="postal">
+                        <descricao>Postal</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="73">
+            <titulo>Presencial</titulo>
+            <descricao>Presencial</descricao>
+            <documentos>
+                <default>
+                    <item id="161">Presencial</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="89" tipo="presencial">
+                        <descricao>Presencial</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="74">
+            <titulo>SMS</titulo>
+            <descricao>SMS</descricao>
+            <documentos>
+                <default>
+                    <item id="162">SMS</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="90" tipo="sms">
+                        <descricao>SMS</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="75">
+            <titulo>Telefone</titulo>
+            <descricao>Telefone</descricao>
+            <documentos>
+                <default>
+                    <item id="163">Telefone</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="91" tipo="telefone">
+                        <descricao>Telefone</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="76">
+            <titulo>Web</titulo>
+            <descricao>Web</descricao>
+            <documentos>
+                <default>
+                    <item id="164">Web</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="92" tipo="web">
+                        <descricao>Web</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="77">
+            <titulo>Web Acompanhar</titulo>
+            <descricao>Web Acompanhar</descricao>
+            <documentos>
+                <default>
+                    <item id="165">Web Acompanhar</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="93" tipo="web-acompanhar">
+                        <descricao>Web Acompanhar</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="78">
+            <titulo>Web Agendar</titulo>
+            <descricao>Web Agendar</descricao>
+            <documentos>
+                <default>
+                    <item id="166">Web Agendar</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="94" tipo="web-agendar">
+                        <descricao>Web Agendar</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="79">
+            <titulo>Web Calcular Taxas</titulo>
+            <descricao>Web Calcular Taxas</descricao>
+            <documentos>
+                <default>
+                    <item id="167">Web Calcular Taxas</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="95" tipo="web-calcular-taxas">
+                        <descricao>Web Calcular Taxas</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="80">
+            <titulo>Web Consultar</titulo>
+            <descricao>Web Consultar</descricao>
+            <documentos>
+                <default>
+                    <item id="168">Web Consultar</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="96" tipo="web-consultar">
+                        <descricao>Web Consultar</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="81">
+            <titulo>Web Declarar</titulo>
+            <descricao>Web Declarar</descricao>
+            <documentos>
+                <default>
+                    <item id="169">Web Declarar</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="97" tipo="web-declarar">
+                        <descricao>Web Declarar</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="82">
+            <titulo>Web Emitir</titulo>
+            <descricao>Web Emitir</descricao>
+            <documentos>
+                <default>
+                    <item id="170">Web Emitir</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="98" tipo="web-emitir">
+                        <descricao>Web Emitir</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="83">
+            <titulo>Web Inscrever-se</titulo>
+            <descricao>Web Inscrever-se</descricao>
+            <documentos>
+                <default>
+                    <item id="171">Web Inscrever-se</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="99" tipo="web-inscrever-se">
+                        <descricao>Web Inscrever-se</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="84">
+            <titulo>Web Postos de Atendimento</titulo>
+            <descricao>Web Postos de Atendimento</descricao>
+            <documentos>
+                <default>
+                    <item id="172">Web Postos de Atendimento</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="100" tipo="web-postos-de-atendimento">
+                        <descricao>Web Postos de Atendimento</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="85">
+            <titulo>Web Preencher</titulo>
+            <descricao>Web Preencher</descricao>
+            <documentos>
+                <default>
+                    <item id="173">Web Preencher</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="101" tipo="web-preencher">
+                        <descricao>Web Preencher</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="86">
+            <titulo>Web Simular</titulo>
+            <descricao>Web Simular</descricao>
+            <documentos>
+                <default>
+                    <item id="174">Web Simular</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="102" tipo="web-simular">
+                        <descricao>Web Simular</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -59,6 +382,9 @@
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
+        <item>Agropecuária</item>
+        <item>Água</item>
+        <item>Comércio e Serviços</item>
     </areas-de-interesse>
     <palavras-chave>
         <item id="73">Ygor</item>
