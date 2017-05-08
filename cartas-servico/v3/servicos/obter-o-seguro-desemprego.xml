@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>obter-o-seguro-desemprego</id>
+    <dbId>3</dbId>
+    <nome>Obter o Seguro-Desemprego</nome>
+    <sigla></sigla>
+    <descricao>Este serviço permite que você, caso tenha sido dispensado involuntariamente de seu último trabalho, requisite o seguro-desemprego, um auxílio financeiro temporário para que você possa manter seu sustento enquanto procura por um novo emprego.</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="3">
+            <tipo>Trabalhador formal e doméstico</tipo>
+            <requisitos>Em virtude da dispensa sem justa causa, inclusive dispensa indireta.</requisitos>
+        </solicitante>
+        <solicitante id="4">
+            <tipo>Trabalhador formal com contrato de trabalho suspenso</tipo>
+            <requisitos>Em virtude de participação em curso ou programa de qualificação profissional oferecido pelo empregador.</requisitos>
+        </solicitante>
+        <solicitante id="5">
+            <tipo>Pescador profissional</tipo>
+            <requisitos>Durante o período do defeso.</requisitos>
+        </solicitante>
+        <solicitante id="6">
+            <tipo>Trabalhador resgatado da condição semelhante à de escravo.</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre min="30" max="60" unidade="dias-corridos"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="3">
+            <titulo>Agendar o atendimento</titulo>
+            <descricao>Você deve agendar o atendimento em uma agência do Ministério do Trabalho</descricao>
+            <documentos>
+                <default>
+                    <item id="12">Data de Nascimento</item>
+                    <item id="13">Data de Nascimento</item>
+                    <item id="14">Número do telefone</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8" tipo="telefone">
+                        <descricao>Central 158</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="9" tipo="web">
+                        <descricao>http://saaweb.mte.gov.br/inter/saa/pages/agendamento/main.seam</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="4">
+            <titulo>Realizar o pedido do seguro-desemprego</titulo>
+            <descricao>Você deverá se dirigir ao Posto de Atendimento escolhido na etapa anterior, no dia e horário agendados.</descricao>
+            <documentos>
+                <default>
+                    <item id="15">1</item>
+                    <item id="16">2</item>
+                    <item id="17">3</item>
+                    <item id="18">4</item>
+                    <item id="19">5</item>
+                    <item id="20">6</item>
+                    <item id="21">7</item>
+                    <item id="22">8</item>
+                    <item id="23">9</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="10" tipo="presencial">
+                        <descricao>Postos de Atendimento do Ministério do Trabalho ou do SINE</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="5">
+            <titulo>Receber as parcelas do seguro-desemprego</titulo>
+            <descricao>Após a análise e comprovação do seu direito a receber o seguro-desemprego, você receberá as parcelas através da Caixa Econômica Federal.</descricao>
+            <documentos>
+                <default/>
+                <caso id="5" descricao="Se você tem conta corrente ou conta poupança na Caixa">
+                    <documento>
+                        <id>24</id>
+                        <descricao>Cartão da Caixa Econômica</descricao>
+                    </documento>
+                </caso>
+                <caso id="6" descricao="Se você não tem conta corrente ou conta poupança na Caixa">
+                    <documento>
+                        <id>25</id>
+                        <descricao>Cartão Cidadão ou CPF e documento de identificação oficial com foto.</descricao>
+                    </documento>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="14" tipo="presencial">
+                        <descricao>-</descricao>
+                    </canal-de-prestacao>
+                </default>
+                <caso id="7" descricao="Se você tem conta corrente ou conta poupança na Caixa">
+                    <canal-de-prestacao id="11" tipo="presencial">
+                        <descricao>Através dos canais web, aplicativos móveis, caixas eletrônicos, agências e postos autorizados da Caixa</descricao>
+                    </canal-de-prestacao>
+                </caso>
+                <caso id="8" descricao="Se você tem o Cartão Cidadão com senha cadastrada">
+                    <canal-de-prestacao id="12" tipo="presencial">
+                        <descricao>Caixas Eletrônicos, agências e postos autorizados da Caixa.</descricao>
+                    </canal-de-prestacao>
+                </caso>
+                <caso id="9" descricao="Se você não tem conta corrente ou conta poupança na Caixa e não tem o Cartão Cidadão com senha cadastrada">
+                    <canal-de-prestacao id="13" tipo="presencial">
+                        <descricao>Agências da Caixa.</descricao>
+                    </canal-de-prestacao>
+                </caso>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="2844"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="3">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Empregabilidade</item>
+        <item>Proteção e Benefícios ao Trabalhador</item>
+        <item>Proteção Social</item>
+        <item>Trabalho</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="5">demissão</item>
+        <item id="6">desemprego</item>
+        <item id="7">defeso</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2">[LEI Nº 13.134, DE 16 DE JUNHO DE 2015](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13134.htm)</item>
+    </legislacoes>
+</servico>
