@@ -3,7 +3,7 @@
     <id>sem-orgao-publicar</id>
     <dbId>47</dbId>
     <nome>Sem Orgao Publicar</nome>
-    <sigla></sigla>
+    <sigla>a</sigla>
     <descricao>Sem Orgao Publicar</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
