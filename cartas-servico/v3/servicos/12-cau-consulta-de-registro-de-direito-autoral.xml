@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>12-cau-consulta-de-registro-de-direito-autoral</id>
+    <dbId>25</dbId>
+    <nome>12. CAU - Consulta de Registro de Direito Autoral</nome>
+    <sigla>RDA</sigla>
+    <descricao>É a consulta pública a RDAs cadastrados no CAU. Pode ser feita pelo número de CPF ou registro do arquiteto e pelo número ou chave do RDA. A consulta confirma a autenticidade dos documentos registrados.</descricao>
+    <contato>De segunda a sexta de 9h às 19h pelo telefone 0800 883 0113 e pelo 4007 2613.</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="38">
+            <tipo>Qualquer interessado</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="10" unidade="minutos"/>
+        <descricao>Serviço online de consulta pelo sistema.</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>10</quantidade>
+        <unidade>dias</unidade>
+        <descricao>Muitos tempos.</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="46">
+            <titulo>Consulta</titulo>
+            <descricao>Acessar a página de serviços do CAU e clicar em "Consultar Registro de Direito Autoral".</descricao>
+            <documentos>
+                <default>
+                    <item id="94">CPF do autor, ou</item>
+                    <item id="95">número de registro do autor, ou</item>
+                    <item id="96">número do RDA, ou</item>
+                    <item id="97">chave do RDA</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="62" tipo="web">
+                        <descricao>http://servicos.caubr.gov.br/</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="61283" dbId="794">
+        <nomeOrgao>Administração (ADM-HP)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="33">Cidadãos</item>
+        <item idSegmento="2" idServicoSegmento="34">Órgãos e entidades públicas</item>
+        <item idSegmento="3" idServicoSegmento="35">Empresas</item>
+        <item idSegmento="4" idServicoSegmento="36">Demais segmentos (ONGs, organizações sociais, etc)</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="70">consulta rda</item>
+        <item id="71">consultar direito autoral</item>
+        <item id="72">consultar registro de direito autoral</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="26">Resolução Nº 67/2013</item>
+        <item id="27">Lei 12.378/2010</item>
+        <item id="28">Lei 9.610/98</item>
+    </legislacoes>
+</servico>
