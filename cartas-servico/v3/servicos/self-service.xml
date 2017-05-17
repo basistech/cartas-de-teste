@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>self-service</id>
+    <dbId>48</dbId>
+    <nome>Self Service</nome>
+    <sigla></sigla>
+    <descricao>Self Service</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-digital>0</porcentagem-digital>
+    <solicitantes>
+        <solicitante id="64">
+            <tipo>Self Service</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="12" unidade="horas"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="88">
+            <titulo>Self Service</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="104" tipo="aplicativo-movel">
+                        <descricao>Self Service</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="41696"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="54">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="121">a</item>
+        <item id="122">a</item>
+        <item id="123">a</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="43">Self Service</item>
+    </legislacoes>
+</servico>
