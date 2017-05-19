@@ -1,25 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>teste-de-ponte</nome>
-    <sigla/>
-    <nomes-populares/>
-    <descricao><![CDATA[teste da ponte 127.0.0.1:8100]]></descricao>
-    <contato/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-de-ponte</id>
+    <dbId>5</dbId>
+    <nome>teste de ponte</nome>
+    <sigla></sigla>
+    <descricao>teste da ponte 127.0.0.1:8100</descricao>
+    <contato></contato>
     <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
     <solicitantes>
-        <solicitante>
+        <solicitante id="324">
             <tipo>teste</tipo>
-            <requisitos/>
+            <requisitos></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <ate max="2" unidade="horas"/>
-        <descricao/>
+        <descricao></descricao>
     </tempo-total-estimado>
+    <validade-documento/>
     <etapas>
-        <etapa>
+        <etapa id="385">
             <titulo>bla</titulo>
-            <descricao/>
+            <descricao></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -28,26 +31,28 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao tipo="web-preencher">
-                        <descricao><![CDATA[http://127.0.0.1:8100]]></descricao>
+                    <canal-de-prestacao id="522" tipo="web-preencher">
+                        <descricao>http://127.0.0.1:8100</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/113010"/>
+    <orgao id="113010" dbId="4017">
+        <nomeOrgao>Assessoria Especial de Planejamento (AEP)</nomeOrgao>
+    </orgao>
     <segmentos-da-sociedade>
-        <item>Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="273">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item>ponte</item>
-        <item>teste</item>
-        <item>formulario</item>
+        <item id="624">ponte</item>
+        <item id="625">teste</item>
+        <item id="626">formulario</item>
     </palavras-chave>
     <legislacoes>
-        <item><![CDATA[asdfasdf]]></item>
+        <item id="250">asdfasdf</item>
     </legislacoes>
 </servico>
