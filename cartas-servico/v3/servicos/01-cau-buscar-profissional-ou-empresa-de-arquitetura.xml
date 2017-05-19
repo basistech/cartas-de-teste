@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>01-cau-buscar-profissional-ou-empresa-de-arquitetura</id>
+    <dbId>73</dbId>
+    <nome>01. CAU - Buscar Profissional ou Empresa de Arquitetura</nome>
+    <sigla></sigla>
+    <descricao>Consulta ao banco de dados do CAU para confirmar se determinado profissional ou empresa de arquitetura e urbanismo possuem registro no Conselho.</descricao>
+    <contato>De segunda a sexta de 9h às 19h pelo telefone 0800 883 0113 e pelo 4007 2613.</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="374">
+            <tipo>Qualquer pessoa interessada</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="10" unidade="minutos"/>
+        <descricao>Serviço online de consulta imediata pelo sistema.</descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="432">
+            <titulo>Consulta</titulo>
+            <descricao>No site de serviços do CAU, clicar em "Buscar Profissional/Empresa". A busca pode ser feita por nome ou CPF/CNPJ, ou número de registro no CAU. Caso o profissional ou empresa possua registro, o sistema informará.</descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="580" tipo="web">
+                        <descricao>https://servicos.caubr.org.br/</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="100565" dbId="42374">
+        <nomeOrgao>Secretaria Operacional (SOP)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="324">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="325">Empresas</item>
+        <item idSegmento="2" idServicoSegmento="326">Órgãos e entidades públicas</item>
+        <item idSegmento="4" idServicoSegmento="327">Demais segmentos (ONGs, organizações sociais, etc)</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="723">consulta arquiteto</item>
+        <item id="724">confirmar registro arquiteto</item>
+        <item id="725">confirmar registro empresa</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="284">Lei 12.378/2010</item>
+    </legislacoes>
+</servico>
