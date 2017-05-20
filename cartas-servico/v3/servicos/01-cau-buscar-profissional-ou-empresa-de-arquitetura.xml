@@ -38,7 +38,7 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="100565" dbId="42374">
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100565" dbId="42374">
         <nomeOrgao>Secretaria Operacional (SOP)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
