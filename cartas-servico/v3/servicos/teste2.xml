@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste2</id>
-    <dbId>4</dbId>
-    <nome>teste2</nome>
+    <dbId>14</dbId>
+    <nome>TeSte2</nome>
     <sigla>TST2</sigla>
     <nomes-populares>
-        <item id="5">nome1</item>
-        <item id="6">nome2</item>
+        <item id="83">nome1</item>
+        <item id="84">nome2</item>
     </nomes-populares>
     <descricao>Descrição</descricao>
-    <contato/>
+    <contato></contato>
     <gratuito>false</gratuito>
-    <porcentagem-digital>87</porcentagem-digital>
+    <porcentagem-manual>false</porcentagem-manual>
     <solicitantes>
-        <solicitante id="3">
+        <solicitante id="112">
             <tipo>Solicitante Teste</tipo>
-            <requisitos/>
+            <requisitos></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
@@ -26,34 +26,36 @@
         <tipo>Válido por</tipo>
         <quantidade>123321</quantidade>
         <unidade>dias</unidade>
-        <descricao/>
+        <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="5">
+        <etapa id="120">
             <titulo>ETAPA 1</titulo>
-            <descricao/>
+            <descricao></descricao>
             <documentos>
                 <default/>
             </documentos>
             <custos>
                 <default>
-                    <custo id="1">
+                    <custo id="19">
                         <descricao>Custo</descricao>
-                        <moeda/>
+                        <moeda></moeda>
                         <valor>10</valor>
                     </custo>
                 </default>
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="8" tipo="fax">
+                    <canal-de-prestacao id="147" tipo="fax">
                         <descricao>51 910 234 34</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="80675"/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244" dbId="37528">
+        <nomeOrgao>Ministério da Educação (MEC)</nomeOrgao>
+    </orgao>
     <segmentos-da-sociedade>
         <item idSegmento="1" idServicoSegmento="6">Cidadãos</item>
     </segmentos-da-sociedade>
@@ -61,11 +63,11 @@
         <item>Abastecimento</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="7">Palavra 1</item>
-        <item id="8">Palavra 2</item>
-        <item id="9">Palavra 3</item>
+        <item id="209">Palavra 1</item>
+        <item id="210">Palavra 2</item>
+        <item id="211">Palavra 3</item>
     </palavras-chave>
     <legislacoes>
-        <item id="3">Le</item>
+        <item id="97">Le</item>
     </legislacoes>
 </servico>
