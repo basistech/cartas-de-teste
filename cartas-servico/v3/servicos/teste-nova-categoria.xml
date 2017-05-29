@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-nova-categoria</id>
+    <dbId>91</dbId>
+    <nome>Teste Nova Categoria</nome>
+    <sigla>TNC</sigla>
+    <nomes-populares>
+        <item id="109">Teste Nova Categoria</item>
+    </nomes-populares>
+    <descricao>Teste Nova Categoria</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="139">
+            <tipo>Teste Nova Categoria</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="158">
+            <titulo>Teste Nova Categoria</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="184" tipo="aplicativo-movel">
+                        <descricao>Teste Nova Categoria</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219924" dbId="58047">
+        <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="133">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Aaaaaaaaaaa</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="278">a</item>
+        <item id="279">a</item>
+        <item id="280">a</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="124">Teste Nova Categoria</item>
+    </legislacoes>
+</servico>
