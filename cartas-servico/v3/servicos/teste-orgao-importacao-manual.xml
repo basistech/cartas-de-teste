@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-orgao-importacao-manual</id>
+    <dbId>92</dbId>
+    <nome>Teste Órgão Importação Manual</nome>
+    <sigla></sigla>
+    <descricao>Teste Órgão Importação Manual</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="140">
+            <tipo>Teste Órgão Importação Manual</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="159">
+            <titulo>Teste Órgão Importação Manual</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="185" tipo="aplicativo-movel">
+                        <descricao>Teste Órgão Importação Manual</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/6187" dbId="46129">
+        <nomeOrgao>Serviço de Orientação e Análise Tributária (Seort-VIT)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="134">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Aaaaaaaaaaa</item>
+        <item>Administração</item>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="281">a</item>
+        <item id="282">b</item>
+        <item id="283">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="125">Teste Órgão Importação Manual</item>
+    </legislacoes>
+</servico>
