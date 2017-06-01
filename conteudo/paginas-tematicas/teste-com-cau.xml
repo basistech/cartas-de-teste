@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica>
+    <conteudo>Teste dos Conselhos com CAU</conteudo>
+    <dbId>42</dbId>
+    <nome>Teste Com CAU</nome>
+    <orgaos>
+        <orgao dbId="58050">
+            <nomeOrgao>Conselho de Arquitetura e Urbanismo (CAU)</nomeOrgao>
+        </orgao>
+        <orgao id="322" dbId="8382">
+            <nomeOrgao>Conselho Administrativo de Defesa Econômica (CADE)</nomeOrgao>
+        </orgao>
+        <orgao id="8" dbId="8720">
+            <nomeOrgao>Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
