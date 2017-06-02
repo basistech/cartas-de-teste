@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica>
+    <conteudo>min</conteudo>
+    <dbId>43</dbId>
+    <nome>tematica</nome>
+    <orgaos>
+        <orgao id="208423" dbId="37538">
+            <nomeOrgao>Ministério das Mulheres, da Igualdade Racial, da Juventude e dos Direitos Humanos (MIRD)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
