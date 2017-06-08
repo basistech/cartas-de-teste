@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica>
+    <conteudo>Teste Pagina Tematica Com Unidades de Atendimento, Bla Pagina Tematica Com Unidades de Atendimento, Milapu Pagina Tematica Com Unidades de Atendimento.</conteudo>
+    <dbId>44</dbId>
+    <nome>Pagina Tematica Com Unidades de Atendimento</nome>
+    <orgaos>
+        <orgao id="219925" dbId="58048">
+            <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+        </orgao>
+        <orgao id="1926" dbId="37526">
+            <nomeOrgao>Ministério da Cultura (MinC)</nomeOrgao>
+        </orgao>
+        <orgao id="36670" dbId="37543">
+            <nomeOrgao>Ministério do Esporte (ME)</nomeOrgao>
+        </orgao>
+        <orgao id="3162" dbId="37530">
+            <nomeOrgao>Ministério da Indústria, Comércio Exterior e Serviços (MDIC)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
