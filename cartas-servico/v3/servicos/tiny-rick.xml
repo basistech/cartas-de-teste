@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>tiny-rick</id>
+    <dbId>94</dbId>
+    <nome>Tiny Rick!</nome>
+    <sigla></sigla>
+    <descricao>Tiny Rick!</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="142">
+            <tipo>Tiny Rick!</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="161">
+            <titulo>Tiny Rick!</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="186" tipo="aplicativo-movel">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="187" tipo="e-mail">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="188" tipo="fax">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="189" tipo="postal">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="190" tipo="presencial">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="191" tipo="sms">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="192" tipo="telefone">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="193" tipo="web">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="194" tipo="web-acompanhar">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="195" tipo="web-agendar">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="196" tipo="web-calcular-taxas">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="197" tipo="web-consultar">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="198" tipo="web-declarar">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="199" tipo="web-emitir">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="200" tipo="web-inscrever-se">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="201" tipo="web-postos-de-atendimento">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="202" tipo="web-preencher">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="203" tipo="web-simular">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
+        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="135">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Administração</item>
+        <item>Água</item>
+        <item>Agropecuária</item>
+        <item>Abastecimento</item>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Assistência ao Portador de Deficiência</item>
+        <item>Assistência ao Idoso</item>
+        <item>Assistência Hospitalar e Ambulatorial</item>
+        <item>Biodiversidade</item>
+        <item>Atendimento básico</item>
+        <item>Cidadania</item>
+        <item>Clima</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="287">r</item>
+        <item id="288">r</item>
+        <item id="289">r</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="127">Tiny Rick!</item>
+    </legislacoes>
+</servico>
