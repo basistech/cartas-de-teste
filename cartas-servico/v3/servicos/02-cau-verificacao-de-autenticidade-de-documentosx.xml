@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
-    <id>02-cau-verificacao-de-autenticidade-de-documentos</id>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>02-cau-verificacao-de-autenticidade-de-documentosx</id>
     <dbId>55</dbId>
-    <nome>02-cau-verificacao-de-autenticidade-de-documentosx</nome>
-    <sigla/>
+    <nome>02. CAU - Verificação de autenticidade de documentosx</nome>
+    <sigla></sigla>
     <nomes-populares>
         <item id="64">Validação de documentos, confirmação de documentos, autenticação de documentos</item>
     </nomes-populares>
@@ -15,14 +15,27 @@ Podem ser verificadas a autenticidade de RRTs (Registro de Responsabilidade Téc
     <solicitantes>
         <solicitante id="84">
             <tipo>Qualquer cidadão interessado</tipo>
-            <requisitos/>
+            <requisitos></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <atendimento-imediato/>
-        <descricao/>
+        <ate max="12" unidade="minutos"/>
+        <descricao>**Este é** *um teste* 
+
+* 1
+* 2
+* 3</descricao>
     </tempo-total-estimado>
-    <validade-documento/>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>1</quantidade>
+        <unidade>anos</unidade>
+        <descricao>**Este é** *um teste* 
+
+* 1
+* 2
+* 3</descricao>
+    </validade-documento>
     <etapas>
         <etapa id="92">
             <titulo>Verificação</titulo>
@@ -40,7 +53,42 @@ Podem ser verificadas a autenticidade de RRTs (Registro de Responsabilidade Téc
                     <canal-de-prestacao id="113" tipo="web-consultar">
                         <descricao>http://servicos.caubr.gov.br/</descricao>
                     </canal-de-prestacao>
+                    <canal-de-prestacao id="204" tipo="aplicativo-movel">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="205" tipo="e-mail">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="206" tipo="fax">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="207" tipo="postal">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="208" tipo="presencial">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="209" tipo="sms">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="210" tipo="telefone">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="211" tipo="web">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="212" tipo="web-acompanhar">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="213" tipo="web-agendar">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
                 </default>
+                <caso id="72" descricao="Blabla">
+                    <canal-de-prestacao id="214" tipo="aplicativo-movel">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                </caso>
             </canais-de-prestacao>
         </etapa>
     </etapas>
