@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
+    <id>02-cau-verificacao-de-autenticidade-de-documentos</id>
+    <dbId>55</dbId>
+    <nome>02-cau-verificacao-de-autenticidade-de-documentosx</nome>
+    <sigla/>
+    <nomes-populares>
+        <item id="64">Validação de documentos, confirmação de documentos, autenticação de documentos</item>
+    </nomes-populares>
+    <descricao>É a confirmação de que um documento é autêntico e realmente foi emitido pelo CAU. 
+Podem ser verificadas a autenticidade de RRTs (Registro de Responsabilidade Técnica), certidões e declarações.</descricao>
+    <contato>De segunda a sexta de 9h às 19h pelo telefone 0800 883 0113 e pelo 4007 2613.</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="84">
+            <tipo>Qualquer cidadão interessado</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao/>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="92">
+            <titulo>Verificação</titulo>
+            <descricao>Acessar o site para verificar a autenticidade do documento.</descricao>
+            <documentos>
+                <default>
+                    <item id="183">Número do RRT ou certidão e a chave de autenticação.</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="113" tipo="web-consultar">
+                        <descricao>http://servicos.caubr.gov.br/</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao dbId="58050">
+        <nomeOrgao>Conselho de Arquitetura e Urbanismo (CAU)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="75">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="76">Empresas</item>
+        <item idSegmento="2" idServicoSegmento="77">Órgãos e entidades públicas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Urbanismo</item>
+        <item>Serviços Públicos</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="153">Verificação</item>
+        <item id="154">Autenticidade</item>
+        <item id="155">Certidão</item>
+        <item id="156">RRT</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="123">CAU</item>
+    </legislacoes>
+</servico>
