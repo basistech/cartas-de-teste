@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
     <id>02-cau-verificacao-de-autenticidade-de-documentos</id>
     <dbId>55</dbId>
-    <nome>02. CAU - Verificação de autenticidade de documentos</nome>
-    <sigla></sigla>
+    <nome>02-cau-verificacao-de-autenticidade-de-documentosx</nome>
+    <sigla/>
     <nomes-populares>
         <item id="64">Validação de documentos, confirmação de documentos, autenticação de documentos</item>
     </nomes-populares>
@@ -15,12 +15,12 @@ Podem ser verificadas a autenticidade de RRTs (Registro de Responsabilidade Téc
     <solicitantes>
         <solicitante id="84">
             <tipo>Qualquer cidadão interessado</tipo>
-            <requisitos></requisitos>
+            <requisitos/>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <atendimento-imediato/>
-        <descricao></descricao>
+        <descricao/>
     </tempo-total-estimado>
     <validade-documento/>
     <etapas>
