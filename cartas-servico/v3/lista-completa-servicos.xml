@@ -720,12 +720,12 @@ Explicar o que acontece em caso de negativa (há possibilidade de recorrer ? Out
             <item idSegmento="3" idServicoSegmento="791">Empresas</item>
         </segmentos-da-sociedade>
         <areas-de-interesse>
-            <item>Defesa Nacional</item>
-            <item>Defesa agropecuária</item>
-            <item>Defesa do Consumidor</item>
-            <item>Defesa militar</item>
-            <item>Difusão Cultural</item>
             <item>Educação</item>
+            <item>Difusão Cultural</item>
+            <item>Defesa militar</item>
+            <item>Defesa agropecuária</item>
+            <item>Defesa Nacional</item>
+            <item>Defesa do Consumidor</item>
             <item>Energia</item>
             <item>Esporte comunitário</item>
             <item>Esporte profissional</item>
