@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<pagina-tematica>
+<pagina-tematica xmlns="http://servicos.gov.br/v3/schema">
     <conteudo>Darf é um documento do [Ministério da Fazenda (MF)], utilizado para pagamento de receitas federais, contribuições e tributos administrados pela [Secretaria da Receita Federal do Brasil (RFB)].
 
 Você pode pagar o Darf, mesmo sem código de barras, em terminais de autoatendimento e páginas dos bancos na internet. teste
@@ -29,17 +29,17 @@ Você pode pagar o Darf, mesmo sem código de barras, em terminais de autoatendi
 * [Parcelamento Timemania RFB](/servico/parcelamento-timemania-rfb?pk_campaign=darf)
 * [Retificação de Documento de Arrecadação de Receitas Federais (Darf) – Redarf](/servico/retificacao-de-documento-de-arrecadacao-de-receitas-federais-darf-redarf?pk_campaign=darf)
 * [Transferências de Imóveis - Cálculo de Laudêmio, Emissão de CAT, Validação de CAT e Emissão de Darf](/servico/transferencias-de-imoveis-calculo-de-laudemio-emissao-de-cat-validacao-de-cat-e-emissao-de-darf?pk_campaign=darf)</conteudo>
-    <dbId>7</dbId>
-    <nome>documento-de-arrecadacao-de-receitas-federais-darf</nome>
+    <dbId>5</dbId>
+    <nome>Documento de Arrecadação de Receitas Federais (Darf)</nome>
     <orgaos>
-        <orgao dbId="794" id="61283">
+        <orgao id="61283" dbId="794">
             <nomeOrgao>Administração (ADM-HP)</nomeOrgao>
         </orgao>
-        <orgao dbId="41696" id="207378">
+        <orgao id="207378" dbId="41696">
             <nomeOrgao>Secretaria (AB6-4)</nomeOrgao>
         </orgao>
-        <orgao dbId="41695" id="40897">
-            <nomeOrgao>SecretarIa Administrativa (SADM-DFILIB)</nomeOrgao>
+        <orgao id="1926" dbId="37526">
+            <nomeOrgao>Ministério da Cultura (MinC)</nomeOrgao>
         </orgao>
     </orgaos>
 </pagina-tematica>
