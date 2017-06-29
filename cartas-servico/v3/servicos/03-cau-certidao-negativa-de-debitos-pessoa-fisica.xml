@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>03-cau-certidao-negativa-de-debitos-pessoa-fisica</id>
+    <dbId>54</dbId>
+    <nome>03. CAU - Certidão Negativa de Débitos Pessoa Física</nome>
+    <sigla>CND</sigla>
+    <nomes-populares>
+        <item id="62">Nada Consta</item>
+    </nomes-populares>
+    <descricao>Emissão do documento que certifica, para os efeitos legais, que o arquiteto e urbanista ou a pessoa jurídica de Arquitetura e Urbanismo com registro interrompido, suspenso, cancelado ou baixado encontra-se sem débito junto ao CAU.</descricao>
+    <contato>De segunda a sexta de 9h às 19h pelo telefone 0800 883 0113 e pelo 4007 2613.</contato>
+    <gratuito>true</gratuito>
+    <porcentagem>0</porcentagem>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="87">
+            <tipo>Arquitetos e Urbanistas</tipo>
+            <requisitos>Registrados no CAU, com o registro interrompido, suspenso ou cancelado e que não possuem débitos junto ao CAU.</requisitos>
+        </solicitante>
+        <solicitante id="88">
+            <tipo>Empresas de Arquitetura e Urbanismo</tipo>
+            <requisitos>Ser registrada no CAU, estar com o registro interrompido, suspenso, cancelado ou baixado e não possuir débitos junto ao CAU.</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="99">
+            <titulo>Emissão</titulo>
+            <descricao>Acessar o SICCAU com CPF/CNJP e senha para emitir a certidão.</descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="121" tipo="web">
+                        <descricao>servicos.caubr.gov.br</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao dbId="58051">
+        <nomeOrgao>Conselho de Arquitetura e Urbanismo (CAU)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="74">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="75">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração</item>
+        <item>Água</item>
+        <item>Agropecuária</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="151">Certidão negativa</item>
+        <item id="152">CND</item>
+        <item id="153">CNDPJ</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="80">Resolução N° 93/2014</item>
+    </legislacoes>
+</servico>
