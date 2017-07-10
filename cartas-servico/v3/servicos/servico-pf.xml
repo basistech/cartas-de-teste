@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>servico-pf</id>
+    <dbId>605</dbId>
+    <nome>Serviço PF</nome>
+    <sigla></sigla>
+    <descricao>Serviço PF</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="340">
+            <tipo>Serviço PF</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="1310">
+            <titulo>Serviço PF</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1697" tipo="aplicativo-movel">
+                        <descricao>Serviço PF</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/324" dbId="26267">
+        <nomeOrgao>Departamento de Polícia Federal (DPF)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1552">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="1095">a</item>
+        <item id="1096">b</item>
+        <item id="1097">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="321">Serviço PF</item>
+    </legislacoes>
+</servico>
