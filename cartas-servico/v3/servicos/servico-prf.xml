@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>servico-prf</id>
+    <dbId>606</dbId>
+    <nome>Serviço PRF</nome>
+    <sigla></sigla>
+    <descricao>Serviço PRF</descricao>
+    <contato></contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="341">
+            <tipo>Serviço PRF</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="1311">
+            <titulo>Serviço PRF</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1698" tipo="aplicativo-movel">
+                        <descricao>Serviço PRF</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/704" dbId="26268">
+        <nomeOrgao>Departamento de Polícia Rodoviária Federal (DPRF)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1553">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="1098">a</item>
+        <item id="1099">b</item>
+        <item id="1100">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="322">Serviço PRF</item>
+    </legislacoes>
+</servico>
