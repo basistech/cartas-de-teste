@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>testa-sem-xmlns</id>
     <dbId>607</dbId>
     <nome>Testa sem XMLNS</nome>
