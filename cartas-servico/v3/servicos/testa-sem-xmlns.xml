@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>testa-sem-xmlns</id>
+    <dbId>607</dbId>
+    <nome>Testa sem XMLNS</nome>
+    <sigla></sigla>
+    <descricao>Testa sem XMLNS</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="342">
+            <tipo>Testa sem XMLNS</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento/>
+    <etapas>
+        <etapa id="1312">
+            <titulo>Testa sem XMLNS</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1699" tipo="aplicativo-movel">
+                        <descricao>Testa sem XMLNS</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
+        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1554">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="1101">a</item>
+        <item id="1102">b</item>
+        <item id="1103">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="323">Testa sem XMLNS</item>
+    </legislacoes>
+</servico>
