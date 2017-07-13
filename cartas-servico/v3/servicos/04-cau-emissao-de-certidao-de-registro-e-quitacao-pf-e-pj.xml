@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>04-cau-emissao-de-certidao-de-registro-e-quitacao-pf-e-pj</id>
+    <dbId>58</dbId>
+    <nome>04. CAU - Emissão de Certidão de Registro e Quitação PF e PJ</nome>
+    <sigla>CRQ</sigla>
+    <nomes-populares>
+        <item id="64">Declaração de registro</item>
+        <item id="65">Declaração de quitação</item>
+        <item id="66">Nada consta do CAU</item>
+    </nomes-populares>
+    <descricao>Emissão do documento que certifica, para os efeitos legais, que o arquiteto e urbanista ou a empresa de arquitetura e urbanismo encontram-se com registro ativo e sem débito junto ao CAU.</descricao>
+    <contato>De segunda a sexta de 9h às 19h pelo telefone 0800 883 0113 e pelo 4007 2613.</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="97">
+            <tipo>Arquitetos e Urbanistas</tipo>
+            <requisitos>Ser registrado no CAU, estar com o registro ativo, não possuir débitos junto ao CAU e não possuir uma CRQ emitida ainda válida.</requisitos>
+        </solicitante>
+        <solicitante id="98">
+            <tipo>Empresas de Arquitetura e Urbanismo</tipo>
+            <requisitos>Ser registrado no CAU, estar com o registro ativo, não possuir débitos junto ao CAU e não possuir uma CRQ emitida ainda válida.</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="107">
+            <titulo>Emissão</titulo>
+            <descricao>Acessar o SICCAU com CPF/CNPJ e senha para emitir a certidão.</descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="129" tipo="web">
+                        <descricao>servicos.caubr.gov.br</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999" dbId="795">
+        <nomeOrgao>Administração Central (AC)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="79">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="80">Empresas</item>
+        <item idSegmento="2" idServicoSegmento="81">Órgãos e entidades públicas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="160">CRQ</item>
+        <item id="161">CRQPF</item>
+        <item id="162">CRQPJ</item>
+        <item id="163">Certidão de registro e quitação</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="83">Resolução N° 93/2014</item>
+    </legislacoes>
+</servico>
