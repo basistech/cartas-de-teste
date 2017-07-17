@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica >
+    <conteudo>Página Temática Remover 123</conteudo>
+    <dbId>45</dbId>
+    <nome>Página Temática Remover</nome>
+    <orgaos>
+        <orgao id="1926" dbId="37526">
+            <nomeOrgao>Ministério da Cultura (MinC)</nomeOrgao>
+        </orgao>
+        <orgao id="1929" dbId="37529">
+            <nomeOrgao>Ministério da Fazenda (MF)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
