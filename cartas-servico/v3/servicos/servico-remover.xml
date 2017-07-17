@@ -4,6 +4,10 @@
     <dbId>99</dbId>
     <nome>Serviço Remover</nome>
     <sigla></sigla>
+    <nomes-populares>
+        <item id="112">1</item>
+        <item id="113">2</item>
+    </nomes-populares>
     <descricao>Serviço Remover</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
