@@ -26,7 +26,9 @@
         <atendimento-imediato/>
         <descricao></descricao>
     </tempo-total-estimado>
-    <validade-documento/>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
     <etapas>
         <etapa id="99">
             <titulo>Emissão</titulo>
@@ -46,8 +48,8 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/324" dbId="26267">
-        <nomeOrgao>Departamento de Polícia Federal (DPF)</nomeOrgao>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1926" dbId="37526">
+        <nomeOrgao>Ministério da Cultura (MinC)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
         <item idSegmento="1" idServicoSegmento="74">Cidadãos</item>
