@@ -4,9 +4,6 @@
     <dbId>54</dbId>
     <nome>03. CAU - Certidão Negativa de Débitos Pessoa Física</nome>
     <sigla>CND</sigla>
-    <nomes-populares>
-        <item id="62"></item>
-    </nomes-populares>
     <descricao>Emissão do documento que certifica, para os efeitos legais, que o arquiteto e urbanista ou a pessoa jurídica de Arquitetura e Urbanismo com registro interrompido, suspenso, cancelado ou baixado encontra-se sem débito junto ao CAU.</descricao>
     <contato>De segunda a sexta de 9h às 19h pelo telefone 0800 883 0113 e pelo 4007 2613.</contato>
     <gratuito>true</gratuito>
