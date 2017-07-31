@@ -40,6 +40,26 @@
                     <item id="377">documento 2</item>
                     <item id="378">documento 3</item>
                 </default>
+                <caso id="99" descricao="caso 1 documento etapa 1">
+                    <documento>
+                        <id>386</id>
+                        <descricao>documento 1 caso 1 etapa 1</descricao>
+                    </documento>
+                    <documento>
+                        <id>387</id>
+                        <descricao>documento 2 caso 1 etapa 1</descricao>
+                    </documento>
+                </caso>
+                <caso id="100" descricao="caso 2 documento etapa 1">
+                    <documento>
+                        <id>388</id>
+                        <descricao>documento 1 caso 2 etapa 1</descricao>
+                    </documento>
+                    <documento>
+                        <id>389</id>
+                        <descricao>documento 2 caso 2 etapa 1</descricao>
+                    </documento>
+                </caso>
             </documentos>
             <custos>
                 <default>
@@ -54,28 +74,28 @@
                         <valor>20</valor>
                     </custo>
                 </default>
-                <caso id="93" descricao="Caso 1 Custo Etapa 1">
-                    <custo id="56">
-                        <descricao>Caso 1 Custo 2 Etapa 1</descricao>
-                        <moeda></moeda>
-                        <valor>11</valor>
-                    </custo>
-                    <custo id="55">
+                <caso id="103" descricao="Caso 1 Custo Etapa 1">
+                    <custo id="68">
                         <descricao>Caso 1 Custo 1 Etapa 1</descricao>
                         <moeda></moeda>
                         <valor>15</valor>
                     </custo>
-                </caso>
-                <caso id="94" descricao="Caso 2 Custo Etapa 1">
-                    <custo id="58">
-                        <descricao>Caso 2 Custo 2 Etapa 1</descricao>
+                    <custo id="67">
+                        <descricao>Caso 1 Custo 2 Etapa 1</descricao>
                         <moeda></moeda>
-                        <valor>32</valor>
+                        <valor>11</valor>
                     </custo>
-                    <custo id="57">
+                </caso>
+                <caso id="104" descricao="Caso 2 Custo Etapa 1">
+                    <custo id="70">
                         <descricao>Caso 2 Custo 1 Etapa 1</descricao>
                         <moeda></moeda>
                         <valor>1</valor>
+                    </custo>
+                    <custo id="69">
+                        <descricao>Caso 2 Custo 2 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>32</valor>
                     </custo>
                 </caso>
             </custos>
