@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-novo-servico-api</id>
+    <dbId>102</dbId>
+    <nome>Teste Novo Servico Api</nome>
+    <sigla>TNSA</sigla>
+    <nomes-populares>
+        <item id="118">teste</item>
+        <item id="119">novo</item>
+        <item id="120">servico</item>
+        <item id="121">api</item>
+    </nomes-populares>
+    <descricao>Teste Novo Servico Api Teste Novo Servico Api Teste Novo Servico Api Teste Novo Servico Api Teste Novo Servico Api</descricao>
+    <contato>Contato qualquer</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="151">
+            <tipo>Qualquer um</tipo>
+            <requisitos>1 requisito</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="12" unidade="horas"/>
+        <descricao>Rapidinho.</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>1</quantidade>
+        <unidade>anos</unidade>
+        <descricao>1 ano de validade.</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="171">
+            <titulo>Etapa 1</titulo>
+            <descricao>etapa 1</descricao>
+            <documentos>
+                <default>
+                    <item id="376">documento 1</item>
+                    <item id="377">documento 2</item>
+                    <item id="378">documento 3</item>
+                </default>
+                <caso id="73" descricao="caso 1 documento etapa 1">
+                    <documento>
+                        <id>372</id>
+                        <descricao>documento 1 caso 1 etapa 1</descricao>
+                    </documento>
+                    <documento>
+                        <id>373</id>
+                        <descricao>documento 2 caso 1 etapa 1</descricao>
+                    </documento>
+                </caso>
+                <caso id="74" descricao="caso 2 documento etapa 1">
+                    <documento>
+                        <id>374</id>
+                        <descricao>documento 1 caso 2 etapa 1</descricao>
+                    </documento>
+                    <documento>
+                        <id>375</id>
+                        <descricao>documento 2 caso 2 etapa 1</descricao>
+                    </documento>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="205" tipo="e-mail">
+                        <descricao>Canal 2 etapa 1</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="204" tipo="aplicativo-movel">
+                        <descricao>Canal 1 etapa 1</descricao>
+                    </canal-de-prestacao>
+                </default>
+                <caso id="75" descricao="caso 1 canal etapa 1">
+                    <canal-de-prestacao id="201" tipo="postal">
+                        <descricao>canal 2 caso 1 canal etapa 1</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="200" tipo="e-mail">
+                        <descricao>canal 1 caso 1 canal etapa 1</descricao>
+                    </canal-de-prestacao>
+                </caso>
+                <caso id="76" descricao="caso 2 canal etapa 1">
+                    <canal-de-prestacao id="203" tipo="e-mail">
+                        <descricao>canal 2 caso 2 canal etapa 1</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="202" tipo="aplicativo-movel">
+                        <descricao>canal 1 caso 2 canal etapa 1</descricao>
+                    </canal-de-prestacao>
+                </caso>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="172">
+            <titulo>Etapa 2</titulo>
+            <descricao>Etapa 2</descricao>
+            <documentos>
+                <default>
+                    <item id="383">documento 1 etapa 2</item>
+                    <item id="384">documento 3 etapa 2</item>
+                    <item id="385">documento 3 etapa 2</item>
+                </default>
+                <caso id="77" descricao="caso 1 documento etapa 2">
+                    <documento>
+                        <id>379</id>
+                        <descricao>documento 1 caso 1 etapa 2</descricao>
+                    </documento>
+                    <documento>
+                        <id>380</id>
+                        <descricao>documento 2 caso 1 etapa 2</descricao>
+                    </documento>
+                </caso>
+                <caso id="78" descricao="caso 2 documento etapa 2">
+                    <documento>
+                        <id>381</id>
+                        <descricao>documento 1 caso 2 etapa 2</descricao>
+                    </documento>
+                    <documento>
+                        <id>382</id>
+                        <descricao>documento 2 caso 2 etapa 2</descricao>
+                    </documento>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="211" tipo="e-mail">
+                        <descricao>canal 2 etapa 2</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="210" tipo="aplicativo-movel">
+                        <descricao>canal 1 etapa 2</descricao>
+                    </canal-de-prestacao>
+                </default>
+                <caso id="79" descricao="caso 1 canal etapa 2">
+                    <canal-de-prestacao id="207" tipo="fax">
+                        <descricao>canal 2 caso 1 etapa 2</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="206" tipo="aplicativo-movel">
+                        <descricao>canal 1 caso 1 etapa 2</descricao>
+                    </canal-de-prestacao>
+                </caso>
+                <caso id="80" descricao="caso 2 etapa 2">
+                    <canal-de-prestacao id="209" tipo="web-preencher">
+                        <descricao>canal 2 caso 2 etapa 2</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="208" tipo="e-mail">
+                        <descricao>canal 1 caso 2 etapa 2</descricao>
+                    </canal-de-prestacao>
+                </caso>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1926" dbId="37526">
+        <nomeOrgao>Ministério da Cultura (MinC)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="143">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Agropecuária</item>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Assistência ao Portador de Deficiência</item>
+        <item>Assistência Hospitalar e Ambulatorial</item>
+        <item>Assistência ao Idoso</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="317">a</item>
+        <item id="318">b</item>
+        <item id="319">c</item>
+        <item id="320">d</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="133">Legisla.</item>
+        <item id="134">Outra norma.</item>
+    </legislacoes>
+</servico>
