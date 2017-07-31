@@ -12,7 +12,7 @@
     </nomes-populares>
     <descricao>Teste Novo Servico Api Teste Novo Servico Api Teste Novo Servico Api Teste Novo Servico Api Teste Novo Servico Api</descricao>
     <contato>Contato qualquer</contato>
-    <gratuito>true</gratuito>
+    <gratuito>false</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <solicitantes>
         <solicitante id="151">
@@ -62,7 +62,42 @@
                 </caso>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo id="34">
+                        <descricao>Custo 2 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>2,000</valor>
+                    </custo>
+                    <custo id="33">
+                        <descricao>Custo 1 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>1,000</valor>
+                    </custo>
+                </default>
+                <caso id="83" descricao="Caso 1 Custo Etapa 1">
+                    <custo id="36">
+                        <descricao>Caso 1 Custo 1 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>15</valor>
+                    </custo>
+                    <custo id="35">
+                        <descricao>Caso 1 Custo 2 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>11</valor>
+                    </custo>
+                </caso>
+                <caso id="84" descricao="Caso 2 Custo Etapa 1">
+                    <custo id="38">
+                        <descricao>Caso 2 Custo 1 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>1</valor>
+                    </custo>
+                    <custo id="37">
+                        <descricao>Caso 2 Custo 2 Etapa 1</descricao>
+                        <moeda></moeda>
+                        <valor>32</valor>
+                    </custo>
+                </caso>
             </custos>
             <canais-de-prestacao>
                 <default>
