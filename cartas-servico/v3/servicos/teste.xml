@@ -1,61 +1,57 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Teste</nome>
-    <sigla>abcdefg</sigla>
-    <nomes-populares>
-        <item>test</item>
-    </nomes-populares>
-    <descricao><![CDATA[Breve texto explicativo!!!]]></descricao>
-    <contato><![CDATA[Teste de **contato**!
-
-* contato1
-* contato2]]></contato>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste</id>
+    <dbId>91</dbId>
+    <nome>teste</nome>
+    <sigla></sigla>
+    <descricao>fgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghffgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfgjdgghftjfg</descricao>
+    <contato></contato>
     <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
     <solicitantes>
-        <solicitante>
-            <tipo>Eu</tipo>
-            <requisitos><![CDATA[ser maior de 18 anos]]></requisitos>
+        <solicitante id="134">
+            <tipo>teste</tipo>
+            <requisitos></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <ate max="1" unidade="horas"/>
-        <descricao><![CDATA[comentário sobre tempo estimado comentário sobre tempo estimado comentário sobre tempo estimado comentário sobre tempo estimado]]></descricao>
+        <atendimento-imediato/>
+        <descricao></descricao>
     </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
     <etapas>
-        <etapa>
-            <titulo>Primeira etapa</titulo>
-            <descricao><![CDATA[desc da etapa um]]></descricao>
+        <etapa id="155">
+            <titulo>teste</titulo>
+            <descricao></descricao>
             <documentos>
-                <default>
-                    <item>RG</item>
-                    <item>CPF</item>
-                </default>
+                <default/>
             </documentos>
             <custos>
                 <default/>
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao tipo="e-mail">
-                        <descricao><![CDATA[teste@teste.com]]></descricao>
+                    <canal-de-prestacao id="181" tipo="presencial">
+                        <descricao>htrtjrht</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/40897" dbId="41695">
+        <nomeOrgao>SecretarIa Administrativa (SADM-DFILIB)</nomeOrgao>
+    </orgao>
     <segmentos-da-sociedade>
-        <item>Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="125">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
-        <item>Água</item>
+        <item>Assistência à Criança e ao Adolescente</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item>ola 1</item>
-        <item>ola 2</item>
-        <item>ola 3</item>
+        <item id="267">a</item>
+        <item id="268">a</item>
+        <item id="269">a</item>
     </palavras-chave>
-    <legislacoes>
-        <item><![CDATA[lei 1]]></item>
-    </legislacoes>
 </servico>
