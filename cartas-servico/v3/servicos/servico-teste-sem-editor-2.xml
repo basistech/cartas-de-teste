@@ -1,38 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>servico-teste-sem-editor-2</nome>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>servico-teste-sem-editor-2</id>
+    <dbId>6</dbId>
+    <nome>Serviço teste sem editor 2</nome>
     <sigla>editor 2</sigla>
     <nomes-populares>
-        <item>editor 2</item>
+        <item id="32">editor 2</item>
     </nomes-populares>
-    <descricao><![CDATA[Serviço teste para verificar se funciona sem o editor 2]]></descricao>
-    <contato><![CDATA[dsfsdadsfsdafadsf]]></contato>
+    <descricao>Serviço teste para verificar se funciona sem o editor 2</descricao>
+    <contato>dsfsdadsfsdafadsf</contato>
     <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
     <solicitantes>
-        <solicitante>
+        <solicitante id="55">
             <tipo>Eu</tipo>
-            <requisitos><![CDATA[dfdasfsdfsadf]]></requisitos>
+            <requisitos>dfdasfsdfsadf</requisitos>
         </solicitante>
-        <solicitante>
+        <solicitante id="56">
             <tipo>Tu</tipo>
-            <requisitos><![CDATA[afdfsafadsfsadfadsfadsfasfdasfdsafsdfsdafdsafvxzcvzxvzxvzxcvzxvxzvcxzvdfghjhkgjhkm,nloiuçpuóip]]></requisitos>
+            <requisitos>afdfsafadsfsadfadsfadsfasfdasfdsafsdfsdafdsafvxzcvzxvzxvzxcvzxvxzvcxzvdfghjhkgjhkm,nloiuçpuóip</requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <entre max="4" min="2" unidade="dias-uteis"/>
-        <descricao><![CDATA[afdsfasfsfdasfsfafsa]]></descricao>
+        <entre min="2" max="4" unidade="dias-uteis"/>
+        <descricao>afdsfasfsfdasfsfafsa</descricao>
     </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
     <etapas>
-        <etapa>
+        <etapa id="55">
             <titulo>Etapa 3000000000000000000000000000000000000</titulo>
-            <descricao><![CDATA[etapa gfklsdfjkglsdlknhlknblkglbn,.v,nxmcnbm,.nxcmv,bncmvxbnx,mcv.]]></descricao>
+            <descricao>etapa gfklsdfjkglsdlknhlknblkglbn,.v,nxmcnbm,.nxcmv,bncmvxbnx,mcv.</descricao>
             <documentos>
                 <default>
-                    <item>sadasfsdfsafdsf</item>
-                    <item>adsffadsfdsafdsafsdaf</item>
+                    <item id="100">sadasfsdfsafdsf</item>
+                    <item id="101">adsffadsfdsafdsafsdaf</item>
                 </default>
-                <caso descricao="adsfdasfdsafasdfdas">
-                    <item>sadfsadfdsafadsfd</item>
+                <caso id="25" descricao="adsfdasfdsafasdfdas">
+                    <documento>
+                        <id>99</id>
+                        <descricao>sadfsadfdsafadsfd</descricao>
+                    </documento>
                 </caso>
             </documentos>
             <custos>
@@ -40,34 +49,34 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao tipo="web-inscrever-se">
-                        <descricao><![CDATA[http://www.google.com.br]]></descricao>
+                    <canal-de-prestacao id="73" tipo="web-inscrever-se">
+                        <descricao>http://www.google.com.br</descricao>
                     </canal-de-prestacao>
-                    <canal-de-prestacao tipo="web-postos-de-atendimento">
-                        <descricao><![CDATA[http://www.uol.com.br]]></descricao>
+                    <canal-de-prestacao id="74" tipo="web-postos-de-atendimento">
+                        <descricao>http://www.uol.com.br</descricao>
                     </canal-de-prestacao>
                 </default>
-                <caso descricao="fdsafasfsafdsafdasff">
-                    <canal-de-prestacao tipo="web-declarar">
-                        <descricao><![CDATA[http://www.gmail.com]]></descricao>
+                <caso id="26" descricao="fdsafasfsafdsafdasff">
+                    <canal-de-prestacao id="70" tipo="web-declarar">
+                        <descricao>http://www.gmail.com</descricao>
                     </canal-de-prestacao>
-                    <canal-de-prestacao tipo="e-mail">
-                        <descricao><![CDATA[teste@teste.com]]></descricao>
+                    <canal-de-prestacao id="71" tipo="e-mail">
+                        <descricao>teste@teste.com</descricao>
                     </canal-de-prestacao>
                 </caso>
-                <caso descricao="dsvfasfdsfasfdasfafds">
-                    <canal-de-prestacao tipo="web-simular">
-                        <descricao><![CDATA[www.tst.com.br]]></descricao>
+                <caso id="27" descricao="dsvfasfdsfasfdasfafds">
+                    <canal-de-prestacao id="72" tipo="web-simular">
+                        <descricao>www.tst.com.br</descricao>
                     </canal-de-prestacao>
                 </caso>
             </canais-de-prestacao>
         </etapa>
-        <etapa>
+        <etapa id="56">
             <titulo>Etapa 400000000000000000000</titulo>
-            <descricao><![CDATA[dsfsdgfdgfdsgdsfgdfsgfdsgdsfgsfdgsfdgsdfgfsdgfdsgfsdgfsdgfsdgsfdgdsfg]]></descricao>
+            <descricao>dsfsdgfdgfdsgdsfgdfsgfdsgdsfgsfdgsfdgsdfgfsdgfdsgfsdgfsdgfsdgsfdgdsfg</descricao>
             <documentos>
                 <default>
-                    <item>testertdsgacdvb</item>
+                    <item id="102">testertdsgacdvb</item>
                 </default>
             </documentos>
             <custos>
@@ -75,19 +84,21 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao tipo="e-mail">
-                        <descricao><![CDATA[dfdsafsdfasdfsadfsd]]></descricao>
+                    <canal-de-prestacao id="75" tipo="e-mail">
+                        <descricao>dfdsafsdfasdfsadfsd</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988" dbId="37525">
+        <nomeOrgao>Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC)</nomeOrgao>
+    </orgao>
     <segmentos-da-sociedade>
-        <item>Cidadãos</item>
-        <item>Órgãos e entidades públicas</item>
-        <item>Demais segmentos (ONGs, organizações sociais, etc)</item>
-        <item>Empresas</item>
+        <item idSegmento="1" idServicoSegmento="43">Cidadãos</item>
+        <item idSegmento="2" idServicoSegmento="44">Órgãos e entidades públicas</item>
+        <item idSegmento="4" idServicoSegmento="45">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="3" idServicoSegmento="46">Empresas</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Educação</item>
@@ -103,16 +114,16 @@
         <item>Lazer</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item>sadfjasdklfjkdlsajkflj</item>
-        <item>kjdksjfklsdjfkljsakdlj</item>
-        <item>jsdklfjlksdjfadslkjfkljdsklflkds</item>
-        <item>adfsafsdagsdagag</item>
-        <item>asdgasgasgsdfgafgfgag</item>
-        <item>agdgfagafgfgadfgafdgfad</item>
+        <item id="88">sadfjasdklfjkdlsajkflj</item>
+        <item id="89">kjdksjfklsdjfkljsakdlj</item>
+        <item id="90">jsdklfjlksdjfadslkjfkljdsklflkds</item>
+        <item id="91">adfsafsdagsdagag</item>
+        <item id="92">asdgasgasgsdfgafgfgag</item>
+        <item id="93">agdgfagafgfgadfgafdgfad</item>
     </palavras-chave>
     <legislacoes>
-        <item><![CDATA[hdjfkhgjkfhghjkghjklsdfhjkghjksdfhgjkshdjkl]]></item>
-        <item><![CDATA[dsfasffdasfdsfsadfasdfdasfasf]]></item>
-        <item><![CDATA[asdfafdsfsafdsafasdfasdfsaf]]></item>
+        <item id="52">hdjfkhgjkfhghjkghjklsdfhjkghjksdfhgjkshdjkl</item>
+        <item id="53">dsfasffdasfdsfsadfasdfdasfasf</item>
+        <item id="54">asdfafdsfsafdsafasdfasdfsaf</item>
     </legislacoes>
 </servico>
