@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>instalacao-de-cisterna-de-polietileno</id>
+    <dbId>66</dbId>
+    <nome>Instalação de cisterna de polietileno</nome>
+    <sigla></sigla>
+    <descricao>A cisterna é um reservatório de armazenamento de águas pluviais (das chuvas) podendo ser de alvenaria ou material plástico (polietileno).
+O serviço de instalação de cisterna de polietileno para consumo é um dos serviços do programa Água para Todos. Esse programa consiste em um conjunto de ações do Governo Federal que busca universalizar o amplo acesso e uso de água para populações que não dispõem desse serviço público essencial.</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="107">
+            <tipo>Populações carentes, residentes em comunidades rurais com acesso precário à água.</tipo>
+            <requisitos>- Renda familiar per capita de R$ 154,00  (cento e cinquenta quarenta reais) mensais
+- Possuir atendimento precário por outra fonte hídrica que comprometa a quantidade e a qualidade necessárias para o consumo humano
+- Ser morador em área rural
+- Não ter sido atendida por outro programa com a mesma finalidade do Água para Todos, na mesma tecnologia apoiada
+- Residir em local coberto com telhado adequado</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="12" unidade="meses"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="116">
+            <titulo>Verificar se seu município está participando do programa Água para Todos</titulo>
+            <descricao>Verificar na listagem disponibilizada pelo Ministério da integração Nacional se o município é contemplado pelo programa Água para Todos.</descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="137" tipo="web">
+                        <descricao>Link com a listagem dos municípios atendidos:
+http://mi.gov.br/documents/10157/122165/FAQ+-+APT+Executores+-+site+MI.pdf/85564765-70aa-4da1-8838-6eed2a42741d</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="117">
+            <titulo>Cadastrar no CadÚnico  (Cadastro Único dos Programas Sociais do Governo Federal)</titulo>
+            <descricao>Realizar o cadastro por meio do CadÚnico (Cadastro Único dos Programas Sociais do Governo Federal) e requisitar o serviço de cisterna de polietileno do programa Água para Todos. 
+Os chamados Centros de Referência de Assistência Social (CRAS), localizados nos municípios, são as unidades responsáveis, juntamente com as prefeituras municipais, pelo cadastro e inserção de famílias no CadÚnico.</descricao>
+            <documentos>
+                <default>
+                    <item id="249">Carteira de trabalho e/ou três últimos contra-cheques</item>
+                    <item id="250">Documento de Identidade (RG)</item>
+                    <item id="251">CPF (Cadastro de Pessoa Física)</item>
+                    <item id="252">Comprovante de Residência</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="138" tipo="presencial">
+                        <descricao>Centros de Referência de Assistência Social (CRAS) do seu município.</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="139" tipo="telefone">
+                        <descricao>0800-707-2003</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="140" tipo="web">
+                        <descricao>http://www.brasilsemmiseria.gov.br</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42670" dbId="37531">
+        <nomeOrgao>Ministério da Integração Nacional (MIN)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="89">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Água</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="179">Cisterna</item>
+        <item id="180">Água para Todos</item>
+        <item id="181">Água</item>
+        <item id="182">Reservatório de água</item>
+        <item id="183">Chuva</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="88">http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2011-07-26;7535</item>
+    </legislacoes>
+</servico>
