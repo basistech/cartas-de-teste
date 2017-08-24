@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
+    <id>alguma-coisa-2</id>
+    <dbId>93</dbId>
+    <nome>reawdgearfs</nome>
+    <sigla/>
+    <nomes-populares>
+        <item id="104">alguma coisa 2</item>
+    </nomes-populares>
+    <descricao>hdfhgh</descricao>
+    <contato/>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <solicitantes>
+        <solicitante id="136">
+            <tipo>ghjghj</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao/>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao/>
+    </validade-documento>
+    <etapas>
+        <etapa id="157">
+            <titulo>ghjgh</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="183" tipo="e-mail">
+                        <descricao>jghjgh</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao dbId="41695" id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/40897">
+        <nomeOrgao>SecretarIa Administrativa (SADM-DFILIB)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="3" idServicoSegmento="127">Empresas</item>
+        <item idSegmento="4" idServicoSegmento="128">Demais segmentos (ONGs, organizações sociais, etc)</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Biodiversidade</item>
+        <item>Cidadania</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="273">gh</item>
+        <item id="274">gh</item>
+        <item id="275">gh</item>
+    </palavras-chave>
+</servico>
