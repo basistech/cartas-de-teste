@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
     <id>alguma-coisa-2</id>
     <dbId>93</dbId>
-    <nome>Alguma Coisa 2</nome>
-    <sigla></sigla>
+    <nome>reawdgearfs</nome>
+    <sigla/>
     <nomes-populares>
         <item id="104">alguma coisa 2</item>
     </nomes-populares>
     <descricao>hdfhgh</descricao>
-    <contato></contato>
+    <contato/>
     <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <solicitantes>
         <solicitante id="136">
             <tipo>ghjghj</tipo>
-            <requisitos></requisitos>
+            <requisitos/>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <atendimento-imediato/>
-        <descricao></descricao>
+        <descricao/>
     </tempo-total-estimado>
     <validade-documento>
-        <descricao></descricao>
+        <descricao/>
     </validade-documento>
     <etapas>
         <etapa id="157">
             <titulo>ghjgh</titulo>
-            <descricao></descricao>
+            <descricao/>
             <documentos>
                 <default/>
             </documentos>
@@ -43,7 +43,7 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/40897" dbId="41695">
+    <orgao dbId="41695" id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/40897">
         <nomeOrgao>SecretarIa Administrativa (SADM-DFILIB)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
