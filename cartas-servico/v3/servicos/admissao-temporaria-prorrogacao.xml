@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
     <id>admissao-temporaria-prorrogacao</id>
     <dbId>670</dbId>
-    <nome>Admissão Temporária - Prorrogação</nome>
+    <nome>admissao-temporaria-prorrogacao</nome>
     <sigla>atp</sigla>
     <descricao>vdscds</descricao>
-    <contato></contato>
+    <contato/>
     <gratuito>false</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <tempo-total-estimado>
-        <entre min="0" max="0"/>
-        <descricao></descricao>
+        <entre max="0" min="0"/>
+        <descricao/>
     </tempo-total-estimado>
     <validade-documento>
-        <descricao></descricao>
+        <descricao/>
     </validade-documento>
     <etapas/>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/77" dbId="42526">
+    <orgao dbId="42526" id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/77">
         <nomeOrgao>Secretaria da Receita Federal do Brasil (RFB)</nomeOrgao>
     </orgao>
     <areas-de-interesse>
