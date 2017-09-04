@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>admissao-temporaria-prorrogacao</id>
-    <dbId>674</dbId>
+    <dbId>675</dbId>
     <nome>Admissão Temporária - Prorrogação</nome>
     <sigla>atp</sigla>
-    <nomes-populares>
-        <item id="467">wadaw</item>
-        <item id="468">wdqwdq</item>
-        <item id="469">qwdqwdqw</item>
-        <item id="470">qwddqw</item>
-    </nomes-populares>
     <descricao>vdscds</descricao>
     <contato></contato>
     <gratuito>false</gratuito>
