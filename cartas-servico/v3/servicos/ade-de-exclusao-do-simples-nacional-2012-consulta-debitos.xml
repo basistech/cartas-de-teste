@@ -3,13 +3,13 @@
     <id>ade-de-exclusao-do-simples-nacional-2012-consulta-debitos</id>
     <dbId>669</dbId>
     <nome>ADE de Exclusão do Simples Nacional 2012 - Consulta Débitos</nome>
-    <sigla>seutembroooo</sigla>
+    <sigla>seutembro</sigla>
     <descricao>Consultar débitos referentes ao Ato Declaratório de Exclusão do Simples Nacional 2012.</descricao>
     <contato>declaraçao imposto de renda baixa</contato>
     <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <tempo-total-estimado>
-        <entre min="0" max="0" unidade="minutos"/>
+        <entre min="0" max="0"/>
         <descricao>por este motivo nao poso fazernada</descricao>
     </tempo-total-estimado>
     <validade-documento>
