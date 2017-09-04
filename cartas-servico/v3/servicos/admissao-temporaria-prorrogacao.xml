@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>admissao-temporaria-prorrogacao</id>
-    <dbId>367</dbId>
+    <dbId>671</dbId>
     <nome>Admissão Temporária - Prorrogação</nome>
     <sigla>atp</sigla>
+    <nomes-populares>
+        <item id="455">wadaw</item>
+    </nomes-populares>
     <descricao>vdscds</descricao>
     <contato></contato>
     <gratuito>false</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
-    <solicitantes>
-        <solicitante id="355">
-            <tipo>wq</tipo>
-            <requisitos></requisitos>
-        </solicitante>
-    </solicitantes>
     <tempo-total-estimado>
         <entre min="0" max="0" unidade="dias-corridos"/>
         <descricao></descricao>
@@ -21,38 +18,11 @@
     <validade-documento>
         <descricao></descricao>
     </validade-documento>
-    <etapas>
-        <etapa id="1310">
-            <titulo>qwd</titulo>
-            <descricao></descricao>
-            <documentos>
-                <default/>
-            </documentos>
-            <custos>
-                <default/>
-            </custos>
-            <canais-de-prestacao>
-                <default>
-                    <canal-de-prestacao id="1768" tipo="web">
-                        <descricao>http://www.receita.fazenda.gov.br/aplicacoes/atbhe/tus/Servico.aspx?id=65&amp;idArea=1&amp;idAssunto=24</descricao>
-                    </canal-de-prestacao>
-                </default>
-            </canais-de-prestacao>
-        </etapa>
-    </etapas>
+    <etapas/>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/77" dbId="42526">
         <nomeOrgao>Secretaria da Receita Federal do Brasil (RFB)</nomeOrgao>
     </orgao>
-    <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1656">Cidadãos</item>
-        <item idSegmento="3" idServicoSegmento="1657">Empresas</item>
-    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Economia e Finanças</item>
     </areas-de-interesse>
-    <palavras-chave>
-        <item id="1004">a</item>
-        <item id="1005">a</item>
-        <item id="1006">a</item>
-    </palavras-chave>
 </servico>
