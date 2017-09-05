@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pagina-tematica >
-    <conteudo>Acessibilidade 2
+    <conteudo>Acessibilidade 123
 ---
 
 O Portal de Serviços segue o novo modelo de identidade digital padrão do governo federal, que atende às principais 
@@ -46,11 +46,11 @@ Aqui você poderá baixar alguns arquivos que explicam melhor o termo acessibili
 * [Modelo de Acessibilidade de Governo Eletrônico](http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG)
 * [Portaria nº 03, de 07 de Maio de 2007](http://www.governoeletronico.gov.br/biblioteca/arquivos/portaria-no-03-de-07-05-2007) - formato .pdf (35,5Kb) - Institucionaliza o Modelo de Acessibilidade em Governo Eletrônico – e-MAG
 </conteudo>
-    <dbId>37</dbId>
+    <dbId>36</dbId>
     <nome>Acessibilidade</nome>
     <orgaos>
-        <orgao id="219925" dbId="58048">
-            <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+        <orgao id="2981" dbId="37545">
+            <nomeOrgao>Ministério do Planejamento, Desenvolvimento e Gestão (MP)</nomeOrgao>
         </orgao>
     </orgaos>
 </pagina-tematica>
