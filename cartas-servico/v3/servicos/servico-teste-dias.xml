@@ -15,7 +15,7 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <em-media max="1" unidade="dias-uteis"/>
+        <entre min="1" max="2" unidade="dias-uteis"/>
         <descricao></descricao>
     </tempo-total-estimado>
     <validade-documento>
