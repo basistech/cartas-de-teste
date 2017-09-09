@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>servico-digital</id>
-    <dbId>669</dbId>
+    <dbId>670</dbId>
     <nome>Serviço Digital</nome>
     <sigla></sigla>
-    <descricao>awdasdw</descricao>
+    <descricao>awdas</descricao>
     <contato></contato>
-    <gratuito>false</gratuito>
+    <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
-    <servico-digital>false</servico-digital>
-    <link-servico-digital></link-servico-digital>
+    <servico-digital>true</servico-digital>
+    <link-servico-digital>awdsdw</link-servico-digital>
+    <solicitantes>
+        <solicitante id="354">
+            <tipo>wads</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <atendimento-imediato/>
         <descricao></descricao>
@@ -17,11 +23,38 @@
     <validade-documento>
         <descricao></descricao>
     </validade-documento>
-    <etapas/>
+    <etapas>
+        <etapa id="1309">
+            <titulo>wasdw</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1769" tipo="aplicativo-movel">
+                        <descricao>awdsd</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
         <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
     </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1654">Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
+        <item>Abastecimento</item>
     </areas-de-interesse>
+    <palavras-chave>
+        <item id="1001">a</item>
+        <item id="1002">a</item>
+        <item id="1003">a</item>
+    </palavras-chave>
 </servico>
