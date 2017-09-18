@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste18</id>
-    <dbId>108</dbId>
+    <dbId>109</dbId>
     <nome>teste18</nome>
     <sigla></sigla>
     <descricao>sfhdtjhtyh</descricao>
@@ -22,6 +22,10 @@
         <nomeOrgao>Administração Central (AC)</nomeOrgao>
     </orgao>
     <areas-de-interesse>
+        <item>Combustíveis</item>
+        <item>Comunicações</item>
+        <item>Combustíveis</item>
+        <item>Comunicações</item>
         <item>Combustíveis</item>
         <item>Comunicações</item>
         <item>Combustíveis</item>
