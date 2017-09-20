@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>aaaaaaa-e-+_-cccc</id>
-    <dbId>114</dbId>
-    <nome>ãaaaaaã {E} ?:&gt;&lt;,.;/] +_)(*&amp;%$#@! '"\| çççç</nome>
+    <dbId>113</dbId>
+    <nome>ãaaaaaã {E} ?:&gt;&lt;,.;/] +_)(*&amp;%$#@! '"\| çççç|</nome>
     <sigla></sigla>
     <descricao>wgetbtr</descricao>
     <contato></contato>
@@ -10,6 +10,12 @@
     <porcentagem-manual>false</porcentagem-manual>
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="151">
+            <tipo>veve</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
     <tempo-total-estimado>
         <ate max="10" unidade="horas"/>
         <descricao></descricao>
@@ -17,10 +23,34 @@
     <validade-documento>
         <descricao></descricao>
     </validade-documento>
-    <etapas/>
+    <etapas>
+        <etapa id="172">
+            <titulo>veerev</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="193" tipo="aplicativo-movel">
+                        <descricao>verververv</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999" dbId="795">
         <nomeOrgao>Administração Central (AC)</nomeOrgao>
     </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="142">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="143">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="144">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="145">Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Cidadania</item>
         <item>Comercio externo</item>
@@ -34,5 +64,46 @@
         <item>Cidadania</item>
         <item>Comercio externo</item>
         <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
     </areas-de-interesse>
+    <palavras-chave>
+        <item id="318">e</item>
+        <item id="319">e</item>
+        <item id="320">e</item>
+    </palavras-chave>
 </servico>
