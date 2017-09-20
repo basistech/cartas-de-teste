@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>aaaaaaa</id>
+    <dbId>113</dbId>
+    <nome>ãaaaaaã</nome>
+    <sigla></sigla>
+    <descricao>wgetbtr</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="148">
+            <tipo>veve</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="10" unidade="horas"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="169">
+            <titulo>veerev</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="191" tipo="aplicativo-movel">
+                        <descricao>verververv</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999" dbId="795">
+        <nomeOrgao>Administração Central (AC)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="140">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+        <item>Cidadania</item>
+        <item>Comercio externo</item>
+        <item>Defesa agropecuária</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="309">e</item>
+        <item id="310">e</item>
+        <item id="311">e</item>
+    </palavras-chave>
+</servico>
