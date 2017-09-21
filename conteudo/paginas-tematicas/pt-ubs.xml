@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica >
+    <conteudo>Unidades de Atendimento</conteudo>
+    <dbId>37</dbId>
+    <nome>PT UBS</nome>
+    <orgaos>
+        <orgao id="304" dbId="37534">
+            <nomeOrgao>Ministério da Saúde (MS)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
