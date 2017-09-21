@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>rascunho-teste</id>
+    <dbId>669</dbId>
+    <nome>Rascunho Teste</nome>
+    <sigla>RT</sigla>
+    <nomes-populares>
+        <item id="453">rascunho</item>
+        <item id="454">teste</item>
+        <item id="455">ract</item>
+    </nomes-populares>
+    <descricao>Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste Rascunho Teste</descricao>
+    <contato>61 9 6666-6666</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>true</servico-digital>
+    <link-servico-digital>http://localhost:8080/servico/rascunho-teste</link-servico-digital>
+    <solicitantes>
+        <solicitante id="353">
+            <tipo>Qualquer</tipo>
+            <requisitos>wqdaswaawd</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="321" unidade="meses"/>
+        <descricao>wadsdwadawd</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>12</quantidade>
+        <unidade>dias</unidade>
+        <descricao>wadawdwa</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="1308">
+            <titulo>Etapa 1</titulo>
+            <descricao>desc</descricao>
+            <documentos>
+                <default>
+                    <item id="1029">cpf</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo id="47">
+                        <descricao>prim</descricao>
+                        <moeda>R$</moeda>
+                        <valor>10</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1768" tipo="aplicativo-movel">
+                        <descricao>ewdswadawd</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981" dbId="37545">
+        <nomeOrgao>Ministério do Planejamento, Desenvolvimento e Gestão (MP)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração Financeira</item>
+        <item>Água</item>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Assistência ao Portador de Deficiência</item>
+        <item>Atendimento básico</item>
+        <item>Biodiversidade</item>
+        <item>Categoria Selenium 1</item>
+        <item>Clima</item>
+        <item>Abastecimento</item>
+        <item>Administração Financeira</item>
+        <item>Água</item>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Assistência ao Portador de Deficiência</item>
+        <item>Atendimento básico</item>
+        <item>Biodiversidade</item>
+        <item>Categoria Selenium 1</item>
+        <item>Clima</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="998">asd</item>
+        <item id="999">dsa</item>
+        <item id="1000">zxc</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="329">Leg legal</item>
+    </legislacoes>
+</servico>
