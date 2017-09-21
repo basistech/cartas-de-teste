@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica >
+    <conteudo>Esta é uma página temática ghost com um órgão a mais que a def dela e com um conteúdo bem diferente.</conteudo>
+    <dbId>37</dbId>
+    <nome>Ghost Tematica Nova 4</nome>
+    <orgaos>
+        <orgao id="304" dbId="37534">
+            <nomeOrgao>Ministério da Saúde (MS)</nomeOrgao>
+        </orgao>
+        <orgao id="244" dbId="37528">
+            <nomeOrgao>Ministério da Educação (MEC)</nomeOrgao>
+        </orgao>
+    </orgaos>
+</pagina-tematica>
