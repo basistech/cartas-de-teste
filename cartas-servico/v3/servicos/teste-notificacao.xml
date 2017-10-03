@@ -35,7 +35,7 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="1768" tipo="aplicativo-movel">
+                    <canal-de-prestacao id="1768" tipo="e-mail">
                         <descricao>Teste Notificacao</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -52,7 +52,9 @@
         <item>Abastecimento</item>
         <item>Administração Financeira</item>
         <item>Administração</item>
-        <item>Agropecuária</item>
+        <item>Abastecimento</item>
+        <item>Administração Financeira</item>
+        <item>Administração</item>
     </areas-de-interesse>
     <palavras-chave>
         <item id="998">a</item>
