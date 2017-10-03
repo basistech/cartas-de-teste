@@ -13,7 +13,7 @@
     <solicitantes>
         <solicitante id="353">
             <tipo>Teste Notificacao</tipo>
-            <requisitos>Teste Notificacao</requisitos>
+            <requisitos></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
@@ -26,7 +26,7 @@
     <etapas>
         <etapa id="1308">
             <titulo>Teste Notificacao</titulo>
-            <descricao>Teste Notificacao</descricao>
+            <descricao></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -49,16 +49,14 @@
         <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
+        <item>Abastecimento</item>
         <item>Administração Financeira</item>
-        <item>Ambiente e saúde</item>
-        <item>Assistência Hospitalar e Ambulatorial</item>
-        <item>Administração Financeira</item>
-        <item>Ambiente e saúde</item>
-        <item>Assistência Hospitalar e Ambulatorial</item>
+        <item>Administração</item>
+        <item>Agropecuária</item>
     </areas-de-interesse>
     <palavras-chave>
         <item id="998">a</item>
-        <item id="999">b</item>
-        <item id="1000">c</item>
+        <item id="999">a</item>
+        <item id="1000">a</item>
     </palavras-chave>
 </servico>
