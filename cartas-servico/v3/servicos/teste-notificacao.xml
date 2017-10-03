@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste-notificacao</id>
-    <dbId>675</dbId>
+    <dbId>676</dbId>
     <nome>Teste Notificacao</nome>
-    <sigla>TNT</sigla>
+    <sigla>TN</sigla>
     <descricao>Teste Notificacao</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
@@ -22,6 +22,14 @@
         <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
     </orgao>
     <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
+        <item>Abastecimento</item>
         <item>Abastecimento</item>
         <item>Abastecimento</item>
         <item>Abastecimento</item>
