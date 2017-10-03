@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste-notificacao</id>
-    <dbId>672</dbId>
+    <dbId>673</dbId>
     <nome>Teste Notificacao</nome>
-    <sigla></sigla>
+    <sigla>Sigla</sigla>
     <descricao>Teste Notificacao</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
-    <solicitantes>
-        <solicitante id="357">
-            <tipo>Teste Notificacao</tipo>
-            <requisitos></requisitos>
-        </solicitante>
-    </solicitantes>
     <tempo-total-estimado>
         <atendimento-imediato/>
         <descricao></descricao>
@@ -23,38 +17,12 @@
     <validade-documento>
         <descricao></descricao>
     </validade-documento>
-    <etapas>
-        <etapa id="1313">
-            <titulo>Teste Notificacao</titulo>
-            <descricao></descricao>
-            <documentos>
-                <default/>
-            </documentos>
-            <custos>
-                <default/>
-            </custos>
-            <canais-de-prestacao>
-                <default>
-                    <canal-de-prestacao id="1771" tipo="aplicativo-movel">
-                        <descricao>Teste Notificacao</descricao>
-                    </canal-de-prestacao>
-                </default>
-            </canais-de-prestacao>
-        </etapa>
-    </etapas>
+    <etapas/>
     <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
         <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
     </orgao>
-    <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1658">Cidadãos</item>
-    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
         <item>Abastecimento</item>
     </areas-de-interesse>
-    <palavras-chave>
-        <item id="1007">a</item>
-        <item id="1008">a</item>
-        <item id="1009">a</item>
-    </palavras-chave>
 </servico>
