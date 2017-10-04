@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>testeeeeeeeeeeeeeee</id>
+    <dbId>121</dbId>
+    <nome>Testeeeeeeeeeeeeeee</nome>
+    <sigla></sigla>
+    <nomes-populares>
+        <item id="111">Teste19np00000</item>
+    </nomes-populares>
+    <descricao>fghjk,fyuk</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="159">
+            <tipo>kryuk</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="180">
+            <titulo>ryukfyuk</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="196" tipo="aplicativo-movel">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999" dbId="795">
+        <nomeOrgao>Administração Central (AC)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="156">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Comercio externo</item>
+        <item>Cooperação Internacional</item>
+        <item>Empregabilidade</item>
+        <item>Comercio externo</item>
+        <item>Cooperação Internacional</item>
+        <item>Empregabilidade</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="342">h</item>
+        <item id="343">h</item>
+        <item id="344">h</item>
+    </palavras-chave>
+</servico>
