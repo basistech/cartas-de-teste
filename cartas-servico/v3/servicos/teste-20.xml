@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-20</id>
+    <dbId>115</dbId>
+    <nome>teste 20</nome>
+    <sigla></sigla>
+    <nomes-populares>
+        <item id="105">teste 20 np</item>
+    </nomes-populares>
+    <descricao>srtjhdrtjdty</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="153">
+            <tipo>ue56u</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="174">
+            <titulo>56ue56</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="195" tipo="aplicativo-movel">
+                        <descricao>6e56ur6e56</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999" dbId="795">
+        <nomeOrgao>Administração Central (AC)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="3" idServicoSegmento="150">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="324">y</item>
+        <item id="325">y</item>
+        <item id="326">y</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="121">etykiyrukryu</item>
+    </legislacoes>
+</servico>
