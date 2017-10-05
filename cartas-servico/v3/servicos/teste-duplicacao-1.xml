@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste-duplicacao-1</id>
-    <dbId>673</dbId>
+    <dbId>674</dbId>
     <nome>Teste Duplicacao 1</nome>
     <sigla>TD</sigla>
     <descricao>Teste Duplicacao 1</descricao>
@@ -26,4 +26,8 @@
         <item>Administração</item>
         <item>Agropecuária</item>
     </areas-de-interesse>
+    <servicos-relacionados>
+        <item>606</item>
+        <item>612</item>
+    </servicos-relacionados>
 </servico>
