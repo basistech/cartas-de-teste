@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste20</id>
-    <dbId>123</dbId>
+    <dbId>124</dbId>
     <nome>teste20</nome>
     <sigla></sigla>
     <descricao>srtjhdrtjdty</descricao>
@@ -22,6 +22,54 @@
         <nomeOrgao>Administração Central (AC)</nomeOrgao>
     </orgao>
     <areas-de-interesse>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
+        <item>Fiscalização do Estado</item>
+        <item>Energia elétrica</item>
+        <item>Educação profissionalizante</item>
         <item>Fiscalização do Estado</item>
         <item>Energia elétrica</item>
         <item>Educação profissionalizante</item>
