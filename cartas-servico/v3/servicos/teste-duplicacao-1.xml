@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste-duplicacao-1</id>
-    <dbId>672</dbId>
+    <dbId>673</dbId>
     <nome>Teste Duplicacao 1</nome>
-    <sigla>TD1213</sigla>
+    <sigla>TD</sigla>
     <descricao>Teste Duplicacao 1</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
