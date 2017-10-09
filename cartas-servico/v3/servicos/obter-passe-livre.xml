@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>obter-passe-livre</id>
+    <dbId>671</dbId>
+    <nome>Obter Passe livre</nome>
+    <sigla>OPL</sigla>
+    <descricao>O Passe Livre é um programa do Governo Federal que proporciona a pessoas que possuem deficiência e são carentes gratuidade nas passagens para viajar entre os estados brasileiros.</descricao>
+    <contato>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF
+
+ Telefones: (61) 2029-8035.
+
+ e-mail: passelivre@transportes.gov.br
+
+ Caixa Postal - 9.600 - CEP 70.040-976 - Brasília/DF</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <tempo-total-estimado>
+        <ate max="30" unidade="dias-corridos"/>
+        <descricao>O prazo estimado acima começa a contar a partir do recebimento dos documentos pelo Passe Livre.</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas/>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2846" dbId="37548">
+        <nomeOrgao>Ministério dos Transportes, Portos e Aviação Civil (MTPA)</nomeOrgao>
+    </orgao>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Assistência ao Portador de Deficiência</item>
+        <item>Transporte Ferroviário</item>
+        <item>Transporte Hidroviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+</servico>
