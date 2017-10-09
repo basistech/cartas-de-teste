@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>cadastro-no-sicaf</id>
-    <dbId>672</dbId>
+    <dbId>673</dbId>
     <nome>Cadastro no SICAF</nome>
-    <sigla>CS</sigla>
+    <sigla>CS GO</sigla>
     <descricao>O serviço tem como finalidade cadastrar e habilitar parcialmente pessoas físicas ou jurídicas, interessadas em participar de licitações realizadas por órgãos/entidades do Poder Executivo Federal, bem como acompanhar o desempenho dos fornecimentos contratados.</descricao>
     <contato></contato>
     <gratuito>false</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
-    <solicitantes>
-        <solicitante id="356">
-            <tipo>CS</tipo>
-            <requisitos></requisitos>
-        </solicitante>
-    </solicitantes>
     <tempo-total-estimado>
         <atendimento-imediato/>
         <descricao></descricao>
@@ -30,9 +24,4 @@
     <areas-de-interesse>
         <item>Urbanismo</item>
     </areas-de-interesse>
-    <palavras-chave>
-        <item id="1007">a</item>
-        <item id="1008">a</item>
-        <item id="1009">a</item>
-    </palavras-chave>
 </servico>
