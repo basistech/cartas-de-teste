@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>ade-de-exclusao-do-simples-nacional-2012-consulta-debitos</id>
-    <dbId>671</dbId>
+    <dbId>384</dbId>
     <nome>ADE de Exclusão do Simples Nacional 2012 - Consulta Débitos</nome>
     <sigla>seutembro</sigla>
     <descricao>Consultar débitos referentes ao Ato Declaratório de Exclusão do Simples Nacional 2012.</descricao>
     <contato>declaraçao imposto de renda baixa</contato>
     <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
     <tempo-total-estimado>
-        <entre min="0" max="0" unidade="minutos"/>
+        <entre min="0" max="0"/>
         <descricao>por este motivo nao poso fazernada</descricao>
     </tempo-total-estimado>
     <validade-documento>
