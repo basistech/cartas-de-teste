@@ -27293,7 +27293,7 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
                 </canais-de-prestacao>
             </etapa>
         </etapas>
-        <orgao dbId="58050">
+        <orgao id="" dbId="58050">
             <nomeOrgao>Conselho de Arquitetura e Urbanismo (CAU)</nomeOrgao>
         </orgao>
         <segmentos-da-sociedade>
@@ -27383,7 +27383,7 @@ Email - incentivo.viagens@turismo.gov.br</contato>
                 </canais-de-prestacao>
             </etapa>
         </etapas>
-        <orgao dbId="58050">
+        <orgao id="" dbId="58050">
             <nomeOrgao>Conselho de Arquitetura e Urbanismo (CAU)</nomeOrgao>
         </orgao>
         <segmentos-da-sociedade>
@@ -27488,7 +27488,7 @@ Email - incentivo.viagens@turismo.gov.br</contato>
                 </canais-de-prestacao>
             </etapa>
         </etapas>
-        <orgao dbId="58050">
+        <orgao id="" dbId="58050">
             <nomeOrgao>Conselho de Arquitetura e Urbanismo (CAU)</nomeOrgao>
         </orgao>
         <segmentos-da-sociedade>
