@@ -5,7 +5,7 @@
     <nome>Acesso aos Acervos da Fundação Nacional do Índio</nome>
     <sigla></sigla>
     <nomes-populares>
-        <item id="455">Acervo Indígena sdasdas</item>
+        <item id="453">Acervo Indígena sdasdas</item>
     </nomes-populares>
     <descricao>A Fundação Nacional do Índio - FUNAI - tem como missão coordenar o processo de formulação e implementação da política indigenista do Estado brasileiro, instituindo mecanismos efetivos de controle social e de gestão participativa, visando à proteção e promoção dos direitos dos povos indígenas.
 
@@ -18,8 +18,8 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="354">
-            <tipo>awd</tipo>
+        <solicitante id="353">
+            <tipo>wadaw</tipo>
             <requisitos></requisitos>
         </solicitante>
     </solicitantes>
@@ -31,8 +31,8 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1309">
-            <titulo>awd</titulo>
+        <etapa id="1308">
+            <titulo>awdawd</titulo>
             <descricao></descricao>
             <documentos>
                 <default/>
@@ -68,14 +68,14 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
         <nomeOrgao>Fundação Nacional do Índio (FUNAI)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1654">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Proteção Social</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1001">a</item>
-        <item id="1002">a</item>
-        <item id="1003">a</item>
+        <item id="998">a</item>
+        <item id="999">a</item>
+        <item id="1000">a</item>
     </palavras-chave>
 </servico>
