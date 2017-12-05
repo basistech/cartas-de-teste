@@ -3,9 +3,9 @@
     <id>alteracao-cadastral-no-cpf</id>
     <dbId>196</dbId>
     <nome>Alteração Cadastral no CPF</nome>
-    <sigla>09070406403 123</sigla>
+    <sigla>09070406403</sigla>
     <nomes-populares>
-        <item id="453">Caixa Econômica Federal</item>
+        <item id="454">Caixa Econômica Federal</item>
     </nomes-populares>
     <descricao>Realizar pedido de alteração de dados no CPF em uma conveniada (Banco do Brasil, Caixa Econômica Federal, Correios) ou alteração de endereço em entidades que prestam o serviço gratuitamente.</descricao>
     <contato></contato>
@@ -14,7 +14,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="353">
+        <solicitante id="354">
             <tipo>cidadão</tipo>
             <requisitos>Pretendo regularisa meu CPF</requisitos>
         </solicitante>
@@ -27,7 +27,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1308">
+        <etapa id="1309">
             <titulo>renovação cadastro CPF</titulo>
             <descricao>Regularisa meu CPF</descricao>
             <documentos>
@@ -63,14 +63,14 @@
         <nomeOrgao>Secretaria da Receita Federal do Brasil (RFB)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1654">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Economia e Finanças</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1001">Regularisa meu CPF</item>
-        <item id="1002">a</item>
-        <item id="1003">a</item>
+        <item id="1004">Regularisa meu CPF</item>
+        <item id="1005">a</item>
+        <item id="1006">a</item>
     </palavras-chave>
 </servico>
