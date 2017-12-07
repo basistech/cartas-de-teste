@@ -3,7 +3,7 @@
     <id>renovar-passe-livre</id>
     <dbId>1</dbId>
     <nome>Renovar Passe Livre</nome>
-    <sigla>RPL</sigla>
+    <sigla></sigla>
     <descricao>Para renovação da credencial do Passe Livre, conforme determina à legislação, o beneficiário deverá requerer nova credencial até 30 (trinta) dias antes do término da validade do documento anterior, na forma do artigo 14, da Portaria nº 261 GM-MT, de 03/12/2012.</descricao>
     <contato>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF
 
@@ -30,8 +30,8 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <ate max="30" unidade="dias-corridos"/>
-        <descricao>O prazo estimado acima começa a contar a partir do recebimento dos documentos pelo Passe Livre.</descricao>
+        <nao-estimado-ainda/>
+        <descricao>awdasdwa</descricao>
     </tempo-total-estimado>
     <validade-documento>
         <descricao></descricao>
