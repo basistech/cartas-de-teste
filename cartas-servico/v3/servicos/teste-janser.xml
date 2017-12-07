@@ -5,7 +5,7 @@
     <nome>Teste Janser</nome>
     <sigla>TSTJ</sigla>
     <nomes-populares>
-        <item id="456">teste</item>
+        <item id="457">teste</item>
     </nomes-populares>
     <descricao>teste</descricao>
     <contato></contato>
@@ -14,7 +14,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="357">
+        <solicitante id="358">
             <tipo>Teste janser</tipo>
             <requisitos>Teste</requisitos>
         </solicitante>
@@ -27,7 +27,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1313">
+        <etapa id="1314">
             <titulo>Teste etapa janser</titulo>
             <descricao></descricao>
             <documentos>
@@ -37,6 +37,12 @@
             </documentos>
             <custos>
                 <default>
+                    <custo id="52">
+                        <descricao>Teste 2</descricao>
+                        <moeda>R$</moeda>
+                        <valorVariavel>4545</valorVariavel>
+                        <statusCustoVariavel>1</statusCustoVariavel>
+                    </custo>
                     <custo id="51">
                         <descricao>Teste</descricao>
                         <moeda>R$</moeda>
@@ -59,14 +65,14 @@
         <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1657">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1658">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Administração</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1010">ts</item>
-        <item id="1011">ts1</item>
-        <item id="1012">ts2</item>
+        <item id="1013">ts</item>
+        <item id="1014">ts1</item>
+        <item id="1015">ts2</item>
     </palavras-chave>
 </servico>
