@@ -5,7 +5,7 @@
     <nome>Teste Janser</nome>
     <sigla>TSTJ</sigla>
     <nomes-populares>
-        <item id="453">teste</item>
+        <item id="456">teste</item>
     </nomes-populares>
     <descricao>teste</descricao>
     <contato></contato>
@@ -14,7 +14,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="353">
+        <solicitante id="357">
             <tipo>Teste janser</tipo>
             <requisitos>Teste</requisitos>
         </solicitante>
@@ -27,7 +27,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1308">
+        <etapa id="1313">
             <titulo>Teste etapa janser</titulo>
             <descricao></descricao>
             <documentos>
@@ -36,7 +36,15 @@
                 </default>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo id="51">
+                        <descricao>Teste</descricao>
+                        <moeda>R$</moeda>
+                        <valor>100</valor>
+                        <valorVariavel></valorVariavel>
+                        <statusCustoVariavel>0</statusCustoVariavel>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default>
@@ -51,14 +59,14 @@
         <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1656">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1657">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Administração</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1007">ts</item>
-        <item id="1008">ts1</item>
-        <item id="1009">ts2</item>
+        <item id="1010">ts</item>
+        <item id="1011">ts1</item>
+        <item id="1012">ts2</item>
     </palavras-chave>
 </servico>
