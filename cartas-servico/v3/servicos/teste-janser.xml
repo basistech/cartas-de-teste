@@ -5,7 +5,7 @@
     <nome>Teste Janser</nome>
     <sigla>TSTJ</sigla>
     <nomes-populares>
-        <item id="460">teste</item>
+        <item id="461">teste</item>
     </nomes-populares>
     <descricao>teste</descricao>
     <contato></contato>
@@ -14,7 +14,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="361">
+        <solicitante id="362">
             <tipo>Teste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janser</tipo>
             <requisitos>TesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTeste</requisitos>
         </solicitante>
@@ -27,7 +27,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1317">
+        <etapa id="1318">
             <titulo>Teste etapa janser</titulo>
             <descricao></descricao>
             <documentos>
@@ -38,18 +38,18 @@
             </documentos>
             <custos>
                 <default>
+                    <custo id="53">
+                        <descricao>Teste 2</descricao>
+                        <moeda>R$</moeda>
+                        <valorVariavel>4545</valorVariavel>
+                        <statusCustoVariavel>1</statusCustoVariavel>
+                    </custo>
                     <custo id="54">
                         <descricao>Teste</descricao>
                         <moeda>R$</moeda>
                         <valor>100</valor>
                         <valorVariavel></valorVariavel>
                         <statusCustoVariavel>0</statusCustoVariavel>
-                    </custo>
-                    <custo id="53">
-                        <descricao>Teste 2</descricao>
-                        <moeda>R$</moeda>
-                        <valorVariavel>4545</valorVariavel>
-                        <statusCustoVariavel>1</statusCustoVariavel>
                     </custo>
                 </default>
             </custos>
@@ -66,14 +66,14 @@
         <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1661">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1662">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Administração</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1022">ts</item>
-        <item id="1023">ts1</item>
-        <item id="1024">ts2</item>
+        <item id="1025">ts</item>
+        <item id="1026">ts1</item>
+        <item id="1027">ts2</item>
     </palavras-chave>
 </servico>
