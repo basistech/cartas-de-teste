@@ -17,7 +17,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="353">
+        <solicitante id="354">
             <tipo>Quem já é beneficiário do Passe Livre.</tipo>
             <requisitos>Para que uma pessoa tenha direito a renovação é necessário:
 
@@ -37,7 +37,7 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1308">
+        <etapa id="1311">
             <titulo>Preencher formulários para Renovação</titulo>
             <descricao>O beneficiário preenche os formulários disponíveis no site do Ministério dos Transportes, Portos e Aviação Civil ou presencialmente.</descricao>
             <documentos>
@@ -57,11 +57,13 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="1309">
+        <etapa id="1312">
             <titulo>Enviar formulários e documentação</titulo>
             <descricao>Os formulários da etapa 1 e a documentação devem ser encaminhados via correios ou entregue pessoalmente.</descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item id="1029">[Portal de Serviços](http://servicos.gov.br)</item>
+                </default>
                 <caso id="234" descricao="Renovação de Benefício sem a necessidade de acompanhante">
                     <documento>
                         <id>871</id>
@@ -69,7 +71,9 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                     </documento>
                     <documento>
                         <id>870</id>
-                        <descricao>Novo Atestado Médico, devendo os médicos indicar a Classificação Internacional de Doenças, ou seja, o CID.10, que caracteriza a deficiência.</descricao>
+                        <descricao>Novo Atestado Médico, devendo os médicos indicar a Classificação Internacional de Doenças, ou seja, o CID.10, que caracteriza a deficiência.
+
+[Portal de Serviços](http://servicos.gov.br)</descricao>
                     </documento>
                     <documento>
                         <id>869</id>
@@ -77,6 +81,10 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                     </documento>
                 </caso>
                 <caso id="235" descricao="Renovação de Benefício com a necessidade de acompanhante">
+                    <documento>
+                        <id>872</id>
+                        <descricao>Novo requerimento, acompanhado da Declaração da Composição e Renda Familiar, informando dados pessoais, declaração de rendimentos da família e o número de pessoas dependentes do rendimento indicado.</descricao>
+                    </documento>
                     <documento>
                         <id>876</id>
                         <descricao>Cópia do documento de identificação do Beneficiário.</descricao>
@@ -92,10 +100,6 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                     <documento>
                         <id>873</id>
                         <descricao>Novo Atestado Médico, com a declaração do mesmo médico que atestou a deficiência, informando que é imprescindível à presença de Acompanhante durante a locomoção em viagem.</descricao>
-                    </documento>
-                    <documento>
-                        <id>872</id>
-                        <descricao>Novo requerimento, acompanhado da Declaração da Composição e Renda Familiar, informando dados pessoais, declaração de rendimentos da família e o número de pessoas dependentes do rendimento indicado.</descricao>
                     </documento>
                 </caso>
             </documentos>
@@ -113,7 +117,7 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="1310">
+        <etapa id="1313">
             <titulo>Aguardar análise do processo</titulo>
             <descricao>Nesta etapa o beneficiário aguardará a análise dos formulários e da documentação enviada ao passe livre.
 
@@ -143,7 +147,7 @@ Serão resultados desta etapa:
         <nomeOrgao>Ministério dos Transportes, Portos e Aviação Civil (MTPA)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1654">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transporte Rodoviário</item>
@@ -153,11 +157,11 @@ Serão resultados desta etapa:
         <item>Transportes</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="998">Passe Livre</item>
-        <item id="999">Carteira</item>
-        <item id="1000">Credencial</item>
+        <item id="1001">Passe Livre</item>
+        <item id="1002">Carteira</item>
+        <item id="1003">Credencial</item>
     </palavras-chave>
     <legislacoes>
-        <item id="329">[Legislação - Passe Livre](http://www.transportes.gov.br/conteudo/2764-passe-livre-legislacao.html)</item>
+        <item id="330">[Legislação - Passe Livre](http://www.transportes.gov.br/conteudo/2764-passe-livre-legislacao.html)</item>
     </legislacoes>
 </servico>
