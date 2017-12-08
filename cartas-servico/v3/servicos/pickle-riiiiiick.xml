@@ -5,9 +5,9 @@
     <nome>Pickle Riiiiiick!</nome>
     <sigla>PR</sigla>
     <nomes-populares>
-        <item id="456">pr</item>
-        <item id="457">rm</item>
-        <item id="458">r</item>
+        <item id="459">pr</item>
+        <item id="460">rm</item>
+        <item id="461">r</item>
     </nomes-populares>
     <descricao>Pickle Riiiiiick!</descricao>
     <contato>Pickle Riiiiiick!</contato>
@@ -16,7 +16,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="356">
+        <solicitante id="357">
             <tipo>Pickle Riiiiiick!</tipo>
             <requisitos>Pickle Riiiiiick!</requisitos>
         </solicitante>
@@ -32,7 +32,7 @@
         <descricao>Pickle Riiiiiick!</descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1315">
+        <etapa id="1316">
             <titulo>Pickle Riiiiiick!</titulo>
             <descricao>Pickle Riiiiiick!</descricao>
             <documentos>
@@ -52,22 +52,22 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
-        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/166" dbId="55699">
+        <nomeOrgao>Superintendência da Zona Franca de Manaus (SUFRAMA)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1656">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1657">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
         <item>Administração</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1007">a</item>
-        <item id="1008">a</item>
-        <item id="1009">a</item>
+        <item id="1010">a</item>
+        <item id="1011">a</item>
+        <item id="1012">a</item>
     </palavras-chave>
     <legislacoes>
-        <item id="332">Pickle Riiiiiick!</item>
+        <item id="333">Pickle Riiiiiick!</item>
     </legislacoes>
 </servico>
