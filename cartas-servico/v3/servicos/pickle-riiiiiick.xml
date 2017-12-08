@@ -5,9 +5,9 @@
     <nome>Pickle Riiiiiick!</nome>
     <sigla>PR</sigla>
     <nomes-populares>
-        <item id="453">pr</item>
-        <item id="454">rm</item>
-        <item id="455">r</item>
+        <item id="456">pr</item>
+        <item id="457">rm</item>
+        <item id="458">r</item>
     </nomes-populares>
     <descricao>Pickle Riiiiiick!</descricao>
     <contato>Pickle Riiiiiick!</contato>
@@ -16,7 +16,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="355">
+        <solicitante id="356">
             <tipo>Pickle Riiiiiick!</tipo>
             <requisitos>Pickle Riiiiiick!</requisitos>
         </solicitante>
@@ -32,7 +32,7 @@
         <descricao>Pickle Riiiiiick!</descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1314">
+        <etapa id="1315">
             <titulo>Pickle Riiiiiick!</titulo>
             <descricao>Pickle Riiiiiick!</descricao>
             <documentos>
@@ -56,19 +56,18 @@
         <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1655">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1656">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
-        <item>Administração Financeira</item>
-        <item>Água</item>
+        <item>Administração</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1004">a</item>
-        <item id="1005">a</item>
-        <item id="1006">a</item>
+        <item id="1007">a</item>
+        <item id="1008">a</item>
+        <item id="1009">a</item>
     </palavras-chave>
     <legislacoes>
-        <item id="331">Pickle Riiiiiick!</item>
+        <item id="332">Pickle Riiiiiick!</item>
     </legislacoes>
 </servico>
