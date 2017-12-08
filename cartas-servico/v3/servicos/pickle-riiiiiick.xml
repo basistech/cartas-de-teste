@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>pickle-riiiiiick</id>
+    <dbId>671</dbId>
+    <nome>Pickle Riiiiiick!</nome>
+    <sigla>PR</sigla>
+    <nomes-populares>
+        <item id="453">pr</item>
+        <item id="454">rm</item>
+        <item id="455">r</item>
+    </nomes-populares>
+    <descricao>Pickle Riiiiiick!</descricao>
+    <contato>Pickle Riiiiiick!</contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="355">
+            <tipo>Pickle Riiiiiick!</tipo>
+            <requisitos>Pickle Riiiiiick!</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao>Pickle Riiiiiick!</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>12</quantidade>
+        <unidade>dias</unidade>
+        <descricao>Pickle Riiiiiick!</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="1314">
+            <titulo>Pickle Riiiiiick!</titulo>
+            <descricao>Pickle Riiiiiick!</descricao>
+            <documentos>
+                <default>
+                    <item id="1029">Pickle Riiiiiick!</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1768" tipo="aplicativo-movel">
+                        <descricao>Pickle Riiiiiick!</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
+        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1655">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração Financeira</item>
+        <item>Água</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="1004">a</item>
+        <item id="1005">a</item>
+        <item id="1006">a</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="331">Pickle Riiiiiick!</item>
+    </legislacoes>
+</servico>
