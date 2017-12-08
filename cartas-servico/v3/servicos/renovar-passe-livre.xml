@@ -3,7 +3,7 @@
     <id>renovar-passe-livre</id>
     <dbId>1</dbId>
     <nome>Renovar Passe Livre</nome>
-    <sigla></sigla>
+    <sigla>RPL</sigla>
     <descricao>Para renovação da credencial do Passe Livre, conforme determina à legislação, o beneficiário deverá requerer nova credencial até 30 (trinta) dias antes do término da validade do documento anterior, na forma do artigo 14, da Portaria nº 261 GM-MT, de 03/12/2012.</descricao>
     <contato>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF
 
@@ -31,7 +31,7 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
     </solicitantes>
     <tempo-total-estimado>
         <nao-estimado-ainda/>
-        <descricao>awdasdwa</descricao>
+        <descricao>O prazo estimado acima começa a contar a partir do recebimento dos documentos pelo Passe Livre.</descricao>
     </tempo-total-estimado>
     <validade-documento>
         <descricao></descricao>
@@ -48,11 +48,11 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="1666" tipo="presencial">
-                        <descricao>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF</descricao>
-                    </canal-de-prestacao>
                     <canal-de-prestacao id="1665" tipo="web">
                         <descricao>http://www.transportes.gov.br/direto-ao-cidadao/passe-livre/2-uncategorised/2761-formularios-para-requisicao-passe-livre.html</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="1666" tipo="presencial">
+                        <descricao>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -61,9 +61,7 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
             <titulo>Enviar formulários e documentação</titulo>
             <descricao>Os formulários da etapa 1 e a documentação devem ser encaminhados via correios ou entregue pessoalmente.</descricao>
             <documentos>
-                <default>
-                    <item id="1029">[Portal de Serviços](http://servicos.gov.br)</item>
-                </default>
+                <default/>
                 <caso id="234" descricao="Renovação de Benefício sem a necessidade de acompanhante">
                     <documento>
                         <id>871</id>
@@ -71,9 +69,7 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                     </documento>
                     <documento>
                         <id>870</id>
-                        <descricao>Novo Atestado Médico, devendo os médicos indicar a Classificação Internacional de Doenças, ou seja, o CID.10, que caracteriza a deficiência.
-
-[Portal de Serviços](http://servicos.gov.br)</descricao>
+                        <descricao>Novo Atestado Médico, devendo os médicos indicar a Classificação Internacional de Doenças, ou seja, o CID.10, que caracteriza a deficiência.</descricao>
                     </documento>
                     <documento>
                         <id>869</id>
@@ -81,10 +77,6 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                     </documento>
                 </caso>
                 <caso id="235" descricao="Renovação de Benefício com a necessidade de acompanhante">
-                    <documento>
-                        <id>872</id>
-                        <descricao>Novo requerimento, acompanhado da Declaração da Composição e Renda Familiar, informando dados pessoais, declaração de rendimentos da família e o número de pessoas dependentes do rendimento indicado.</descricao>
-                    </documento>
                     <documento>
                         <id>876</id>
                         <descricao>Cópia do documento de identificação do Beneficiário.</descricao>
@@ -101,6 +93,10 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
                         <id>873</id>
                         <descricao>Novo Atestado Médico, com a declaração do mesmo médico que atestou a deficiência, informando que é imprescindível à presença de Acompanhante durante a locomoção em viagem.</descricao>
                     </documento>
+                    <documento>
+                        <id>872</id>
+                        <descricao>Novo requerimento, acompanhado da Declaração da Composição e Renda Familiar, informando dados pessoais, declaração de rendimentos da família e o número de pessoas dependentes do rendimento indicado.</descricao>
+                    </documento>
                 </caso>
             </documentos>
             <custos>
@@ -108,11 +104,11 @@ Conheça como funciona o cálculo para definir se uma pessoa é ou não carente 
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="1668" tipo="presencial">
-                        <descricao>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF</descricao>
-                    </canal-de-prestacao>
                     <canal-de-prestacao id="1667" tipo="postal">
                         <descricao>Caixa Postal - 9.600 - CEP 70.040-976 - Brasília/DF</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="1668" tipo="presencial">
+                        <descricao>Posto de atendimento - SAN Quadra 3 Bloco N/O térreo - Brasília/DF</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
