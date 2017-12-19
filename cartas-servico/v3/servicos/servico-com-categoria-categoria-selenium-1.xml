@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>servico-com-categoria-categoria-selenium-1</id>
+    <dbId>670</dbId>
+    <nome>Serviço com categoria Categoria Selenium 1</nome>
+    <sigla>SCCCS1</sigla>
+    <descricao>Categoria Selenium 1 Categoria Selenium 1 Categoria Selenium 1 Categoria Selenium 1</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="353">
+            <tipo>Categoria Selenium 1</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="1309">
+            <titulo>Categoria Selenium 1</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1768" tipo="aplicativo-movel">
+                        <descricao>Categoria Selenium 1</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
+        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1654">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Categoria Selenium 1</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="998">a</item>
+        <item id="999">b</item>
+        <item id="1000">c</item>
+    </palavras-chave>
+</servico>
