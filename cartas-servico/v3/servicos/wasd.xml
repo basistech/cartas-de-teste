@@ -3,7 +3,7 @@
     <id>wasd</id>
     <dbId>669</dbId>
     <nome>WASD</nome>
-    <sigla></sigla>
+    <sigla>wasd</sigla>
     <descricao>WASD</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
@@ -11,7 +11,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="353">
+        <solicitante id="354">
             <tipo>WASD</tipo>
             <requisitos></requisitos>
         </solicitante>
@@ -24,7 +24,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1308">
+        <etapa id="1309">
             <titulo>WASD</titulo>
             <descricao></descricao>
             <documentos>
@@ -46,14 +46,14 @@
         <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1654">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="998">a</item>
-        <item id="999">a</item>
-        <item id="1000">a</item>
+        <item id="1001">a</item>
+        <item id="1002">a</item>
+        <item id="1003">a</item>
     </palavras-chave>
 </servico>
