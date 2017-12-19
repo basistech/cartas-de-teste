@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>2ewqdse2qwds</id>
+    <dbId>681</dbId>
+    <nome>2ewqdse2qwds</nome>
+    <sigla></sigla>
+    <descricao>2ewqdse2qwds</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="365">
+            <tipo>2ewqdse2qwds</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="1320">
+            <titulo>2ewqdse2qwds</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1772" tipo="aplicativo-movel">
+                        <descricao>2ewqdse2qwds</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58048">
+        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="1665">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Água</item>
+        <item>Categoria Selenium 1</item>
+        <item>Combate a epidemias</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="1034">a</item>
+        <item id="1035">a</item>
+        <item id="1036">a</item>
+    </palavras-chave>
+</servico>
