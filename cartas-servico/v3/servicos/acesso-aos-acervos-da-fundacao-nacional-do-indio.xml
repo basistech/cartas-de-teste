@@ -5,7 +5,7 @@
     <nome>Acesso aos Acervos da Fundação Nacional do Índio</nome>
     <sigla></sigla>
     <nomes-populares>
-        <item id="720">Acervo Indígena sdasdasddddddd</item>
+        <item id="721">Acervo Indígena sdasdasddddddd</item>
     </nomes-populares>
     <descricao>A Fundação Nacional do Índio - FUNAI - tem como missão coordenar o processo de formulação e implementação da política indigenista do Estado brasileiro, instituindo mecanismos efetivos de controle social e de gestão participativa, visando à proteção e promoção dos direitos dos povos indígenas.
 
@@ -18,7 +18,7 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="578">
+        <solicitante id="579">
             <tipo>vfdgfdgd</tipo>
             <requisitos></requisitos>
         </solicitante>
@@ -31,7 +31,7 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1666">
+        <etapa id="1667">
             <titulo>fdgfdgdfg</titulo>
             <descricao></descricao>
             <documentos>
@@ -42,7 +42,7 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
                     <custo id="154">
                         <descricao>Teste</descricao>
                         <moeda>R$</moeda>
-                        <valor>4,545</valor>
+                        <valor>15,048</valor>
                         <valorVariavel></valorVariavel>
                         <statusCustoVariavel>0</statusCustoVariavel>
                     </custo>
@@ -76,14 +76,14 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
         <nomeOrgao>Fundação Nacional do Índio (FUNAI)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1965">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="1966">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Proteção Social</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1690">f</item>
-        <item id="1691">f</item>
-        <item id="1692">f</item>
+        <item id="1693">f</item>
+        <item id="1694">f</item>
+        <item id="1695">f</item>
     </palavras-chave>
 </servico>
