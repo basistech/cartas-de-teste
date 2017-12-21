@@ -32535,86 +32535,6 @@ Release 9Release 9Release 9Release 9Release 9Release 9Release 9Release 9Release 
         </servicos-relacionados>
     </servico>
     <servico>
-        <id>acesso-aos-acervos-da-fundacao-nacional-do-indio</id>
-        <dbId>315</dbId>
-        <nome>Acesso aos Acervos da Fundação Nacional do Índio</nome>
-        <sigla></sigla>
-        <nomes-populares>
-            <item id="716">Acervo Indígena sdasdasddddddd</item>
-        </nomes-populares>
-        <descricao>A Fundação Nacional do Índio - FUNAI - tem como missão coordenar o processo de formulação e implementação da política indigenista do Estado brasileiro, instituindo mecanismos efetivos de controle social e de gestão participativa, visando à proteção e promoção dos direitos dos povos indígenas.
-
-Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus acervos são:
-
-- Acesso aos acervos arquivísticos (documentais) do fundo Serviço de Proteção ao Índio - SPI e aos acervos do p</descricao>
-        <contato></contato>
-        <gratuito>false</gratuito>
-        <porcentagem-manual>false</porcentagem-manual>
-        <servico-digital>false</servico-digital>
-        <link-servico-digital></link-servico-digital>
-        <solicitantes>
-            <solicitante id="574">
-                <tipo>vfdgfdgd</tipo>
-                <requisitos></requisitos>
-            </solicitante>
-        </solicitantes>
-        <tempo-total-estimado>
-            <atendimento-imediato/>
-            <descricao></descricao>
-        </tempo-total-estimado>
-        <validade-documento>
-            <descricao></descricao>
-        </validade-documento>
-        <etapas>
-            <etapa id="1661">
-                <titulo>fdgfdgdfg</titulo>
-                <descricao></descricao>
-                <documentos>
-                    <default/>
-                </documentos>
-                <custos>
-                    <default/>
-                </custos>
-                <canais-de-prestacao>
-                    <default>
-                        <canal-de-prestacao id="1241" tipo="presencial">
-                            <descricao>Para Acervos Etnográficos e Audiovisuais: Serviço de Referências Documentais do Museu do Índio Rua das Palmeiras, 55 – Botafogo 22270-070 RIO DE JANEIRO - RJ Telefones: (21) 3214-8725 / 3214-8726 / 3214-8727</descricao>
-                        </canal-de-prestacao>
-                        <canal-de-prestacao id="1240" tipo="presencial">
-                            <descricao>Para Acervos Bibliográficos: Biblioteca Marechal Rondon Rua das Palmeiras, 55 – Botafogo 22270-070 RIO DE JANEIRO - RJ Telefones: (21) 3214-8725 / 3214-8726 / 3214-8727</descricao>
-                        </canal-de-prestacao>
-                        <canal-de-prestacao id="1239" tipo="presencial">
-                            <descricao>Para Acervos Bibliográficos: Biblioteca Curt Nimuendaju SBS 02, lote 14, Ed. Cleto Meirelles 70070-120 BRASÍLIA - DF Telefones: (61) 3247-6549 / 3247-6551</descricao>
-                        </canal-de-prestacao>
-                        <canal-de-prestacao id="1238" tipo="presencial">
-                            <descricao>Para Acervos Arquivísticos (documentais): Serviço de Referências Documentais do Museu do Índio Rua das Palmeiras, 55 – Botafogo 22270-070 RIO DE JANEIRO - RJ Telefones: (21) 3214-8725 / 3214-8726 / 3214-8727</descricao>
-                        </canal-de-prestacao>
-                        <canal-de-prestacao id="1237" tipo="presencial">
-                            <descricao>Para Acervos Arquivísticos (documentais): Serviço de Gestão Documental SBS 02, lote 14, Ed. Cleto Meirelles 1º Subsolo 70070-120 BRASÍLIA - DF Telefones: (61) 3247-6552 / 3247-6554</descricao>
-                        </canal-de-prestacao>
-                        <canal-de-prestacao id="1236" tipo="web">
-                            <descricao>http://base2.museudoindio.gov.br</descricao>
-                        </canal-de-prestacao>
-                    </default>
-                </canais-de-prestacao>
-            </etapa>
-        </etapas>
-        <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/173" dbId="34311">
-            <nomeOrgao>Fundação Nacional do Índio (FUNAI)</nomeOrgao>
-        </orgao>
-        <segmentos-da-sociedade>
-            <item idSegmento="1" idServicoSegmento="1960">Cidadãos</item>
-        </segmentos-da-sociedade>
-        <areas-de-interesse>
-            <item>Proteção Social</item>
-        </areas-de-interesse>
-        <palavras-chave>
-            <item id="1678">f</item>
-            <item id="1679">f</item>
-            <item id="1680">f</item>
-        </palavras-chave>
-    </servico>
-    <servico>
         <id>consulta-restituicao-e-situacao-da-declaracao-irpf-dirpf-declaracao-do-imposto-sobre-a-renda-da-pessoa-fisica-declaracoes-e-demonstrativo</id>
         <dbId>558</dbId>
         <nome>Consulta Restituição e Situação da Declaração IRPF (DIRPF - Declaração do Imposto sobre a Renda da Pessoa
@@ -32697,5 +32617,66 @@ Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus
         <areas-de-interesse>
             <item>Economia e Finanças</item>
         </areas-de-interesse>
+    </servico>
+    <servico>
+        <id>acesso-aos-acervos-da-fundacao-nacional-do-indio</id>
+        <dbId>315</dbId>
+        <nome>Acesso aos Acervos da Fundação Nacional do Índio</nome>
+        <sigla></sigla>
+        <nomes-populares>
+            <item id="721">Acervo Indígena sdasdasddddddd</item>
+        </nomes-populares>
+        <descricao>A Fundação Nacional do Índio - FUNAI - tem como missão coordenar o processo de formulação e implementação da política indigenista do Estado brasileiro, instituindo mecanismos efetivos de controle social e de gestão participativa, visando à proteção e promoção dos direitos dos povos indígenas.
+
+Os atendimentos oferecidos aos cidadãos pela FUNAI relativos ao acesso aos seus acervos são:
+
+- Acesso aos acervos arquivísticos (documentais) do fundo Serviço de Proteção ao Índio - SPI e aos acervos do p</descricao>
+        <contato></contato>
+        <gratuito>false</gratuito>
+        <porcentagem-manual>false</porcentagem-manual>
+        <servico-digital>false</servico-digital>
+        <link-servico-digital></link-servico-digital>
+        <solicitantes>
+            <solicitante id="579">
+                <tipo>vfdgfdgd</tipo>
+                <requisitos></requisitos>
+            </solicitante>
+        </solicitantes>
+        <tempo-total-estimado>
+            <atendimento-imediato/>
+            <descricao></descricao>
+        </tempo-total-estimado>
+        <validade-documento>
+            <descricao></descricao>
+        </validade-documento>
+        <etapas>
+            <etapa id="1667">
+                <titulo>fdgfdgdfg</titulo>
+                <descricao></descricao>
+                <documentos>
+                    <default/>
+                </documentos>
+                <custos>
+                    <default/>
+                </custos>
+                <canais-de-prestacao>
+                    <default/>
+                </canais-de-prestacao>
+            </etapa>
+        </etapas>
+        <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/173" dbId="34311">
+            <nomeOrgao>Fundação Nacional do Índio (FUNAI)</nomeOrgao>
+        </orgao>
+        <segmentos-da-sociedade>
+            <item idSegmento="1" idServicoSegmento="1966">Cidadãos</item>
+        </segmentos-da-sociedade>
+        <areas-de-interesse>
+            <item>Proteção Social</item>
+        </areas-de-interesse>
+        <palavras-chave>
+            <item id="1693">f</item>
+            <item id="1694">f</item>
+            <item id="1695">f</item>
+        </palavras-chave>
     </servico>
 </servicos>
