@@ -11,7 +11,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="355">
+        <solicitante id="356">
             <tipo>awdawd</tipo>
             <requisitos></requisitos>
         </solicitante>
@@ -24,7 +24,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1310">
+        <etapa id="1311">
             <titulo>awdawd</titulo>
             <descricao></descricao>
             <documentos>
@@ -36,7 +36,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao id="1769" tipo="aplicativo-movel">
-                        <descricao></descricao>
+                        <descricao>wdawda</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -46,15 +46,15 @@
         <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="3" idServicoSegmento="1655">Empresas</item>
+        <item idSegmento="3" idServicoSegmento="1656">Empresas</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
         <item>Administração Financeira</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1004">a</item>
-        <item id="1005">a</item>
-        <item id="1006">a</item>
+        <item id="1007">a</item>
+        <item id="1008">a</item>
+        <item id="1009">a</item>
     </palavras-chave>
 </servico>
