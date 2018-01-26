@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>123123123</id>
+    <dbId>669</dbId>
+    <nome>123123123</nome>
+    <sigla></sigla>
+    <descricao>123123123</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="353">
+            <tipo>123123123</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="1308">
+            <titulo>123123123</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1768" tipo="aplicativo-movel">
+                        <descricao>123123123</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219924" dbId="58047">
+        <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="3" idServicoSegmento="1653">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Ambiente e saúde</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="998">a</item>
+        <item id="999">a</item>
+        <item id="1000">a</item>
+    </palavras-chave>
+</servico>
