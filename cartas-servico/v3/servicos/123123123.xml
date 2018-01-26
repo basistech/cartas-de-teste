@@ -46,10 +46,10 @@
         <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="3" idServicoSegmento="1653">Empresas</item>
+        <item idSegmento="1" idServicoSegmento="1653">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
-        <item>Ambiente e saúde</item>
+        <item>Abastecimento</item>
     </areas-de-interesse>
     <palavras-chave>
         <item id="998">a</item>
