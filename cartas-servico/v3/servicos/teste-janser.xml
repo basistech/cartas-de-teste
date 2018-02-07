@@ -1,86 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <id>teste-janser</id>
-    <dbId>669</dbId>
+    <dbId>1553</dbId>
     <nome>Teste Janser</nome>
-    <sigla>TSTJ</sigla>
-    <nomes-populares>
-        <item id="462">teste</item>
-    </nomes-populares>
-    <descricao>teste</descricao>
-    <contato>aaa</contato>
-    <gratuito>false</gratuito>
+    <sigla>tstjanser</sigla>
+    <descricao>Serviço teste</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
-    <servico-digital>false</servico-digital>
-    <link-servico-digital></link-servico-digital>
+    <servico-digital>true</servico-digital>
+    <link-servico-digital>Teste</link-servico-digital>
     <solicitantes>
-        <solicitante id="363">
-            <tipo>Teste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janserTeste janser</tipo>
-            <requisitos>TesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTeste</requisitos>
+        <solicitante id="1909">
+            <tipo>Teste</tipo>
+            <requisitos></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <nao-estimado-ainda/>
-        <descricao>Teste</descricao>
+        <descricao></descricao>
     </tempo-total-estimado>
     <validade-documento>
-        <tipo>Válido por</tipo>
-        <quantidade>10</quantidade>
-        <unidade>dias</unidade>
-        <descricao>Teste</descricao>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1319">
-            <titulo>Teste etapa janser</titulo>
-            <descricao></descricao>
+        <etapa id="3955">
+            <titulo>Teste</titulo>
+            <descricao>Teste 1</descricao>
             <documentos>
-                <default>
-                    <item id="1030">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-                    <item id="1031">Teste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documentaçãoTeste documenta</item>
-                </default>
+                <default/>
             </documentos>
             <custos>
-                <default>
-                    <custo id="53">
-                        <descricao>Teste 2</descricao>
-                        <moeda>R$</moeda>
-                        <valorVariavel>4545</valorVariavel>
-                        <statusCustoVariavel>1</statusCustoVariavel>
-                    </custo>
-                    <custo id="54">
-                        <descricao>Teste</descricao>
-                        <moeda>R$</moeda>
-                        <valor>100</valor>
-                        <valorVariavel></valorVariavel>
-                        <statusCustoVariavel>0</statusCustoVariavel>
-                    </custo>
-                </default>
+                <default/>
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="1775" tipo="e-mail">
-                        <descricao>aaa</descricao>
+                    <canal-de-prestacao id="4959" tipo="aplicativo-movel">
+                        <descricao>Teste</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219924" dbId="58047">
-        <nomeOrgao>Secretaria-Geral da Presidência da República (SGPR)</nomeOrgao>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100584" dbId="36722">
+        <nomeOrgao>Instituto Brasileiro de Museus (IBRAM)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="1667">Cidadãos</item>
-        <item idSegmento="2" idServicoSegmento="1668">Órgãos e entidades públicas</item>
-        <item idSegmento="4" idServicoSegmento="1669">Demais segmentos (ONGs, organizações sociais, etc)</item>
-        <item idSegmento="3" idServicoSegmento="1670">Empresas</item>
+        <item idSegmento="1" idServicoSegmento="3961">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="3962">Empresas</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração e Gestão Pública</item>
         <item>Administração</item>
-        <item>Administração Financeira</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1028">ts</item>
-        <item id="1029">ts1</item>
-        <item id="1030">ts2</item>
+        <item id="6145">tst</item>
+        <item id="6146">janser</item>
+        <item id="6147">tstjanser</item>
     </palavras-chave>
 </servico>
