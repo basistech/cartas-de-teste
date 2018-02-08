@@ -5,7 +5,7 @@
     <nome>Acessar à informação pública a órgãos e entidades do Poder Executivo Federal Teste</nome>
     <sigla>e-SIC</sigla>
     <nomes-populares>
-        <item id="1256">Sistema Eletrônico do Serviço de Informações ao Cidadão</item>
+        <item id="1257">Sistema Eletrônico do Serviço de Informações ao Cidadão</item>
     </nomes-populares>
     <descricao>O Sistema Eletrônico do Serviço de Informações ao Cidadão (e-SIC) permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso à informação, acompanhe o prazo e receba a resposta da solicitação realizada para órgãos e entidades do Executivo Federal. Por meio do e-SIC, o cidadão ainda pode impetrar recursos e apresentar reclamações sem burocracia.</descricao>
     <contato></contato>
@@ -14,7 +14,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="1910">
+        <solicitante id="1912">
             <tipo>Todas as pessoas físicas e jurídicas, independente de idade ou nacionalidade.</tipo>
             <requisitos></requisitos>
         </solicitante>
@@ -27,13 +27,13 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="3956">
+        <etapa id="3960">
             <titulo>Registrar-se no e-SIC.</titulo>
             <descricao></descricao>
             <documentos>
                 <default>
-                    <item id="5772">Procuração do representante legal</item>
-                    <item id="5773">Qualquer documento de identificação válido.</item>
+                    <item id="5776">Procuração do representante legal</item>
+                    <item id="5777">Qualquer documento de identificação válido.</item>
                 </default>
             </documentos>
             <custos>
@@ -41,18 +41,18 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="4960" tipo="web">
+                    <canal-de-prestacao id="4965" tipo="web">
                         <descricao>https://esic.cgu.gov.br/sistema/site/index.html</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="3957">
+        <etapa id="3961">
             <titulo>Realizar pedido de informação.</titulo>
             <descricao></descricao>
             <documentos>
                 <default>
-                    <item id="5774">Nenhum</item>
+                    <item id="5778">Nenhum</item>
                 </default>
             </documentos>
             <custos>
@@ -60,18 +60,18 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="4961" tipo="web">
+                    <canal-de-prestacao id="4966" tipo="web">
                         <descricao>https://esic.cgu.gov.br/sistema/site/index.html</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="3958">
+        <etapa id="3962">
             <titulo>Acessar a resposta.</titulo>
             <descricao></descricao>
             <documentos>
                 <default>
-                    <item id="5775">Nenhum</item>
+                    <item id="5779">Nenhum</item>
                 </default>
             </documentos>
             <custos>
@@ -79,10 +79,10 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="4962" tipo="presencial">
+                    <canal-de-prestacao id="4967" tipo="presencial">
                         <descricao>Serviços de Informação ao Cidadão - SIC do órgão a que foi feito o pedido de informação.</descricao>
                     </canal-de-prestacao>
-                    <canal-de-prestacao id="4963" tipo="web">
+                    <canal-de-prestacao id="4968" tipo="web">
                         <descricao>https://esic.cgu.gov.br/sistema/site/index.html</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -93,7 +93,7 @@
         <nomeOrgao>Ministério da Transparência e Controladoria-Geral da União (CGU)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="4" idServicoSegmento="3963">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="4" idServicoSegmento="3966">Demais segmentos (ONGs, organizações sociais, etc)</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Administração</item>
@@ -104,15 +104,15 @@
         <item>Pesquisa e Desenvolvimento</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="6148">Acesso à Informação</item>
-        <item id="6149">Transparência</item>
-        <item id="6150">Dados de órgãos públicos</item>
-        <item id="6151">SIC</item>
-        <item id="6152">Pedir informação</item>
-        <item id="6153">Fiscalização pública</item>
-        <item id="6154">Informação não-confidencial</item>
+        <item id="6158">Acesso à Informação</item>
+        <item id="6159">Transparência</item>
+        <item id="6160">Dados de órgãos públicos</item>
+        <item id="6161">SIC</item>
+        <item id="6162">Pedir informação</item>
+        <item id="6163">Fiscalização pública</item>
+        <item id="6164">Informação não-confidencial</item>
     </palavras-chave>
     <legislacoes>
-        <item id="1613">-</item>
+        <item id="1614">-</item>
     </legislacoes>
 </servico>
