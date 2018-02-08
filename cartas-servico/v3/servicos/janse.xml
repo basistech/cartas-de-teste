@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>janse</id>
+    <dbId>1554</dbId>
+    <nome>Janse</nome>
+    <sigla>janser</sigla>
+    <descricao>Teste janser</descricao>
+    <contato></contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="1911">
+            <tipo>Teste</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="3959">
+            <titulo>Teste</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="4964" tipo="sms">
+                        <descricao>aaa</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/200002" dbId="36419">
+        <nomeOrgao>Governo do Distrito Federal (GDF)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="2" idServicoSegmento="3964">Órgãos e entidades públicas</item>
+        <item idSegmento="1" idServicoSegmento="3965">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração e Gestão Pública</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="6155">janser</item>
+        <item id="6156">teste</item>
+        <item id="6157">janser</item>
+    </palavras-chave>
+</servico>
