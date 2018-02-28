@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>testejanser</id>
+    <dbId>1555</dbId>
+    <nome>TesteJanser</nome>
+    <sigla>tstjanser</sigla>
+    <nomes-populares>
+        <item id="1260">tstjanser</item>
+    </nomes-populares>
+    <descricao>tstjanser</descricao>
+    <contato></contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="1915">
+            <tipo>tstjanser</tipo>
+            <requisitos>tstsjanser</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="3969">
+            <titulo>Tstjanser</titulo>
+            <descricao>Tstjanser</descricao>
+            <documentos>
+                <default>
+                    <item id="5784">Tstjanser</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="4973" tipo="presencial">
+                        <descricao>tsts</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100584" dbId="36722">
+        <nomeOrgao>Instituto Brasileiro de Museus (IBRAM)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="3969">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="6179">tstjanser</item>
+        <item id="6180">tstjanser2</item>
+        <item id="6181">tstjanser3</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="1617">Teste</item>
+    </legislacoes>
+</servico>
