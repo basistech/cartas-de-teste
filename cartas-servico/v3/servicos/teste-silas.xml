@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-silas</id>
+    <dbId>1559</dbId>
+    <nome>Teste Silas</nome>
+    <sigla>SLS</sigla>
+    <nomes-populares>
+        <item id="1263">SLS</item>
+    </nomes-populares>
+    <descricao>Vacilas</descricao>
+    <contato>Teste</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital>www.silascorporation.com</link-servico-digital>
+    <solicitantes>
+        <solicitante id="1921">
+            <tipo>Teste 1</tipo>
+            <requisitos>Teste</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao>Teste</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="3991">
+            <titulo>Etapa 1</titulo>
+            <descricao>Teste</descricao>
+            <documentos>
+                <default>
+                    <item id="5808">CPF</item>
+                    <item id="5809">RG</item>
+                </default>
+                <caso id="609" descricao="Caso teste 1">
+                    <documento>
+                        <id>5807</id>
+                        <descricao>Caso teste 1</descricao>
+                    </documento>
+                </caso>
+            </documentos>
+            <custos>
+                <default>
+                    <custo id="176">
+                        <descricao>Custo 1</descricao>
+                        <moeda>R$</moeda>
+                        <valor>50,00</valor>
+                        <valorVariavel></valorVariavel>
+                        <statusCustoVariavel>0</statusCustoVariavel>
+                    </custo>
+                    <custo id="177">
+                        <descricao>Custo 2</descricao>
+                        <moeda>R$</moeda>
+                        <valor>52,00</valor>
+                        <valorVariavel></valorVariavel>
+                        <statusCustoVariavel>0</statusCustoVariavel>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="4979" tipo="e-mail">
+                        <descricao>Teste</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="4980" tipo="aplicativo-movel">
+                        <descricao>Android/Ios</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/90" dbId="43381">
+        <nomeOrgao>Serviço Federal de Processamento de Dados (SERPRO)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="3974">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="3975">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Desenvolvimento Urbano</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="6214">silas</item>
+        <item id="6215">vacilas</item>
+        <item id="6216">vacilao</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="1623">Teste</item>
+    </legislacoes>
+</servico>
