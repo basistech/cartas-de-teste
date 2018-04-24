@@ -5,7 +5,7 @@
     <nome>Teste Silas</nome>
     <sigla>SLS</sigla>
     <nomes-populares>
-        <item id="1263">SLS</item>
+        <item id="1264">SLS</item>
     </nomes-populares>
     <descricao>Vacilas</descricao>
     <contato>Teste</contato>
@@ -14,7 +14,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital>www.silascorporation.com</link-servico-digital>
     <solicitantes>
-        <solicitante id="1921">
+        <solicitante id="1922">
             <tipo>Teste 1</tipo>
             <requisitos>Teste</requisitos>
         </solicitante>
@@ -30,15 +30,16 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="3991">
+        <etapa id="3992">
             <titulo>Etapa 1</titulo>
             <descricao>Teste</descricao>
             <documentos>
                 <default>
-                    <item id="5808">CPF</item>
-                    <item id="5809">RG</item>
+                    <item id="5810">CPF</item>
+                    <item id="5811">RG</item>
+                    <item id="5812">Carteira de trablaho</item>
                 </default>
-                <caso id="609" descricao="Caso teste 1">
+                <caso id="611" descricao="Caso teste 1">
                     <documento>
                         <id>5807</id>
                         <descricao>Caso teste 1</descricao>
@@ -47,14 +48,14 @@
             </documentos>
             <custos>
                 <default>
-                    <custo id="176">
+                    <custo id="178">
                         <descricao>Custo 1</descricao>
                         <moeda>R$</moeda>
                         <valor>50,00</valor>
                         <valorVariavel></valorVariavel>
                         <statusCustoVariavel>0</statusCustoVariavel>
                     </custo>
-                    <custo id="177">
+                    <custo id="179">
                         <descricao>Custo 2</descricao>
                         <moeda>R$</moeda>
                         <valor>52,00</valor>
@@ -65,10 +66,10 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="4979" tipo="e-mail">
+                    <canal-de-prestacao id="4981" tipo="e-mail">
                         <descricao>Teste</descricao>
                     </canal-de-prestacao>
-                    <canal-de-prestacao id="4980" tipo="aplicativo-movel">
+                    <canal-de-prestacao id="4982" tipo="aplicativo-movel">
                         <descricao>Android/Ios</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -79,18 +80,18 @@
         <nomeOrgao>Serviço Federal de Processamento de Dados (SERPRO)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="3974">Cidadãos</item>
-        <item idSegmento="3" idServicoSegmento="3975">Empresas</item>
+        <item idSegmento="1" idServicoSegmento="3976">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="3977">Empresas</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Desenvolvimento Urbano</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="6214">silas</item>
-        <item id="6215">vacilas</item>
-        <item id="6216">vacilao</item>
+        <item id="6217">silas</item>
+        <item id="6218">vacilas</item>
+        <item id="6219">vacilao</item>
     </palavras-chave>
     <legislacoes>
-        <item id="1623">Teste</item>
+        <item id="1624">Teste</item>
     </legislacoes>
 </servico>
