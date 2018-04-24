@@ -12,7 +12,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="1918">
+        <solicitante id="1919">
             <tipo>Estudante</tipo>
             <requisitos>Que atenda as seguintes condições:
 
@@ -30,7 +30,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="3976">
+        <etapa id="3981">
             <titulo>Inscrever-se no FIES seleção</titulo>
             <descricao>Você irá se inscrever no FIES seleção através do Portal do MEC.</descricao>
             <documentos>
@@ -45,7 +45,6 @@
                     <item id="1461">Suas informações de endereço e contato;</item>
                     <item id="1462">Certidão de casamento e informações sobre o cônjuge, se tiver;</item>
                     <item id="1463">Informações e documentos sobre a bolsa parcial do ProUni, se tiver.</item>
-                    <item id="5785">Teste Janser</item>
                 </default>
             </documentos>
             <custos>
@@ -59,7 +58,7 @@
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="3977">
+        <etapa id="3982">
             <titulo>Obter resultado da Pré-Seleção</titulo>
             <descricao>Você deve acessar o Portal do MEC  na data determinada para divulgação do resultado e verificar se foi pré-selecionado para as vagas existentes.</descricao>
             <documentos>
@@ -78,7 +77,7 @@
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="3978">
+        <etapa id="3983">
             <titulo>Inscrever-se no SISFIES</titulo>
             <descricao>Você deve acessar o SISFIES e concluir sua inscrição preenchendo as informações solicitadas. Se você foi pré-selecionado nas vagas da lista única, o prazo é de dois dias úteis após a divulgação do resultado. Para aqueles que foram para a lista de espera, o prazo é de cinco dias corridos.</descricao>
             <documentos>
@@ -99,7 +98,7 @@
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="3979">
+        <etapa id="3984">
             <titulo>Validar inscrição junto à CPSA</titulo>
             <descricao>Você deverá, em até dez dias corridos imediatamente após sua inscrição no SISFIES, ir à instituição de ensino onde está matriculado e na qual pretende usar o financiamento e validar sua  inscrição junto à Comissão Permanente de Supervisão e Acompanhamento (CPSA) do FIES lá existente.</descricao>
             <documentos>
@@ -140,7 +139,7 @@
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="3980">
+        <etapa id="3985">
             <titulo>Comparecer a agente financeiro para contratar o financiamento</titulo>
             <descricao>A partir do 3º dia útil após a validação das informações pela CPSA, você terá um prazo de dez dias corridos para comparecer a um agente financeiro do FIES (acompanhado de seu fiador, se for o caso) para formalizar a contratação do financiamento.</descricao>
             <documentos>
@@ -223,7 +222,7 @@
         <nomeOrgao>Ministério da Educação (MEC)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="3971">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="3972">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Educação</item>
@@ -231,14 +230,14 @@
         <item>Empregabilidade</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="6196">bolsa</item>
-        <item id="6197">vestibular</item>
-        <item id="6198">Financiamento</item>
-        <item id="6199">MEC</item>
-        <item id="6200">FIES</item>
-        <item id="6201">fies</item>
+        <item id="6202">bolsa</item>
+        <item id="6203">vestibular</item>
+        <item id="6204">Financiamento</item>
+        <item id="6205">MEC</item>
+        <item id="6206">FIES</item>
+        <item id="6207">fies</item>
     </palavras-chave>
     <legislacoes>
-        <item id="1620">[Legislação Básica do FIES](https://www.fnde.gov.br/fndelegis/action/ActionDatalegis.php?acao=abrirTreeview&amp;cod_menu=1315&amp;cod_modulo=85)</item>
+        <item id="1621">[Legislação Básica do FIES](https://www.fnde.gov.br/fndelegis/action/ActionDatalegis.php?acao=abrirTreeview&amp;cod_menu=1315&amp;cod_modulo=85)</item>
     </legislacoes>
 </servico>
