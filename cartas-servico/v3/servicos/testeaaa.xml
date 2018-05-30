@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>testeaaa</id>
+    <dbId>3643</dbId>
+    <nome>Testeaaa</nome>
+    <sigla>tstst</sigla>
+    <nomes-populares>
+        <item id="2777">aaaa</item>
+    </nomes-populares>
+    <descricao>aaa</descricao>
+    <contato>aa</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="4358">
+            <tipo>aa</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao>aaa</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao>aaa</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="8269">
+            <titulo>qaa</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8686" tipo="e-mail">
+                        <descricao>aaa</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316" dbId="37532">
+        <nomeOrgao>Ministério da Justiça  (MJ)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="7945">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="14882">aads</item>
+        <item id="14883">ddd</item>
+        <item id="14884">dddd</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2602">aaa</item>
+    </legislacoes>
+</servico>
