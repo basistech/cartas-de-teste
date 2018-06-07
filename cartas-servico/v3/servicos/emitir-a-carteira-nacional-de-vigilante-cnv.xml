@@ -3,9 +3,9 @@
     <id>emitir-a-carteira-nacional-de-vigilante-cnv</id>
     <dbId>851</dbId>
     <nome>Emitir a Carteira Nacional de Vigilante (cnv)</nome>
-    <sigla></sigla>
+    <sigla>CNV</sigla>
     <nomes-populares>
-        <item id="810">Documento do Vigilante</item>
+        <item id="811">Documento do Vigilante</item>
     </nomes-populares>
     <descricao>Documento de identificação funcional do vigilante. Emitido pela internet através do sistema GESP, e de uso obrigatório em serviço.</descricao>
     <contato>1TC - 10</contato>
@@ -14,7 +14,7 @@
     <servico-digital>true</servico-digital>
     <link-servico-digital>https://br.lipsum.com/feed/html</link-servico-digital>
     <solicitantes>
-        <solicitante id="656">
+        <solicitante id="657">
             <tipo>1TC - 3</tipo>
             <requisitos>1TC - 4</requisitos>
         </solicitante>
@@ -30,19 +30,19 @@
         <descricao>1TC - 2</descricao>
     </validade-documento>
     <etapas>
-        <etapa id="1760">
+        <etapa id="1761">
             <titulo>1TC - 5</titulo>
             <descricao>1TC - 6</descricao>
             <documentos>
                 <default>
-                    <item id="1338">1TC - 7</item>
-                    <item id="1339">2TC - 7</item>
-                    <item id="1340">3TC - 7</item>
+                    <item id="1341">1TC - 7</item>
+                    <item id="1342">2TC - 7</item>
+                    <item id="1343">3TC - 7</item>
                 </default>
             </documentos>
             <custos>
                 <default>
-                    <custo id="191">
+                    <custo id="192">
                         <descricao>1TC - 8</descricao>
                         <moeda>R$</moeda>
                         <valor>800,00</valor>
@@ -53,7 +53,7 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="1914" tipo="e-mail">
+                    <canal-de-prestacao id="1915" tipo="e-mail">
                         <descricao>1TC - 9</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -64,9 +64,9 @@
         <nomeOrgao>Agência Nacional do Cinema (ANCINE)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="2161">Cidadãos</item>
-        <item idSegmento="2" idServicoSegmento="2162">Órgãos e entidades públicas</item>
-        <item idSegmento="4" idServicoSegmento="2163">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="1" idServicoSegmento="2164">Cidadãos</item>
+        <item idSegmento="2" idServicoSegmento="2165">Órgãos e entidades públicas</item>
+        <item idSegmento="4" idServicoSegmento="2166">Demais segmentos (ONGs, organizações sociais, etc)</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Assistência à Criança e ao Adolescente</item>
@@ -77,11 +77,11 @@
         <item>Carlos 28-12-17</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="1932">1TC - 1</item>
-        <item id="1933">1TC - 12</item>
-        <item id="1934">1TC</item>
+        <item id="1935">1TC - 1</item>
+        <item id="1936">1TC - 12</item>
+        <item id="1937">1TC</item>
     </palavras-chave>
     <legislacoes>
-        <item id="616">1TC - 13</item>
+        <item id="617">1TC - 13</item>
     </legislacoes>
 </servico>
