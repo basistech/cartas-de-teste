@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>aaa</id>
+    <dbId>851</dbId>
+    <nome>AAA</nome>
+    <sigla>BBB</sigla>
+    <nomes-populares>
+        <item id="815">CCC</item>
+    </nomes-populares>
+    <descricao>DDD</descricao>
+    <contato>1TC - 10</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>true</servico-digital>
+    <link-servico-digital>https://br.lipsum.com/feed/html</link-servico-digital>
+    <solicitantes>
+        <solicitante id="661">
+            <tipo>1TC - 3</tipo>
+            <requisitos>1TC - 4</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="3" unidade="horas"/>
+        <descricao>1TC - 11</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>2</quantidade>
+        <unidade>dias</unidade>
+        <descricao>1TC - 2</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="1765">
+            <titulo>1TC - 5</titulo>
+            <descricao>1TC - 6</descricao>
+            <documentos>
+                <default>
+                    <item id="1353">1TC - 7</item>
+                    <item id="1354">2TC - 7</item>
+                    <item id="1355">3TC - 7</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo id="196">
+                        <descricao>1TC - 8</descricao>
+                        <moeda>R$</moeda>
+                        <valor>800,00</valor>
+                        <valorVariavel></valorVariavel>
+                        <statusCustoVariavel>0</statusCustoVariavel>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="1919" tipo="e-mail">
+                        <descricao>1TC - 9</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682" dbId="916">
+        <nomeOrgao>Agência Nacional do Cinema (ANCINE)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="2176">Cidadãos</item>
+        <item idSegmento="2" idServicoSegmento="2177">Órgãos e entidades públicas</item>
+        <item idSegmento="4" idServicoSegmento="2178">Demais segmentos (ONGs, organizações sociais, etc)</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Assistência à Criança e ao Adolescente</item>
+        <item>Comercio externo</item>
+        <item>Comunicações Postais</item>
+        <item>Previdência Social</item>
+        <item>Categoria Teste Edson</item>
+        <item>Carlos 28-12-17</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="1947">1TC - 1</item>
+        <item id="1948">1TC - 12</item>
+        <item id="1949">1TC</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="621">1TC - 13</item>
+    </legislacoes>
+</servico>
