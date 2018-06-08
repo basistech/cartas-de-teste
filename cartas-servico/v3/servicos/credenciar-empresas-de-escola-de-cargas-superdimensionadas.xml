@@ -3,7 +3,7 @@
     <id>credenciar-empresas-de-escola-de-cargas-superdimensionadas</id>
     <dbId>3271</dbId>
     <nome>Credenciar empresas de escola de cargas superdimensionadas</nome>
-    <sigla></sigla>
+    <sigla>Tssss</sigla>
     <descricao>Para o trânsito de conjuntos transportadores de cargas indivisíveis e superdimensionadas em peso/dimensões é necessário, segundo norma do DNIT, o acompanhamento de veículos batedores de empresas especializadas, que devem ser credenciadas pela PRF. A PRF, com fundamento no CTB, estabelece os requisitos para credenciamento. As empresas devem encaminhar documentação para análise e realizar pagamento de tarifa. Podendo receber ou não a credencial para execução dos serviços.</descricao>
     <contato></contato>
     <gratuito>false</gratuito>
@@ -11,7 +11,7 @@
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="3858">
+        <solicitante id="4370">
             <tipo>Empresas transportadoras</tipo>
             <requisitos></requisitos>
         </solicitante>
@@ -24,7 +24,7 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="7359">
+        <etapa id="8291">
             <titulo>Requerer credenciamento</titulo>
             <descricao></descricao>
             <documentos>
@@ -32,7 +32,7 @@
             </documentos>
             <custos>
                 <default>
-                    <custo id="720">
+                    <custo id="847">
                         <descricao>Tarifa de credenciamento</descricao>
                         <moeda>R$</moeda>
                         <valor>1.220,64</valor>
@@ -43,7 +43,7 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="7782" tipo="presencial">
+                    <canal-de-prestacao id="8728" tipo="presencial">
                         <descricao>**Polícia Rodoviária Federal** - SPO, Quadra 3,Lote 5 - Complexo Sede da PRF - Brasília/DF - 70610-909</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -54,8 +54,8 @@
         <nomeOrgao>Ministério da Justiça  (MJ)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="3" idServicoSegmento="7267">Empresas</item>
-        <item idSegmento="2" idServicoSegmento="7268">Órgãos e entidades públicas</item>
+        <item idSegmento="3" idServicoSegmento="7962">Empresas</item>
+        <item idSegmento="2" idServicoSegmento="7963">Órgãos e entidades públicas</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transportes</item>
@@ -63,8 +63,8 @@
         <item>Segurança e Ordem Pública</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="13526">dprf</item>
-        <item id="13527">transporte</item>
-        <item id="13528">superdimensionado</item>
+        <item id="14914">dprf</item>
+        <item id="14915">transporte</item>
+        <item id="14916">superdimensionado</item>
     </palavras-chave>
 </servico>
