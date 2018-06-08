@@ -5,16 +5,16 @@
     <nome>Cadastrar Entidades de Adoção Internacional</nome>
     <sigla></sigla>
     <nomes-populares>
-        <item id="2173">DPAS/ADOÇÃO</item>
+        <item id="2781">DPAS/ADOÇÃO</item>
     </nomes-populares>
-    <descricao>O Estatuto da Criança e do Adolescente estabelece com rigor os processos de adoção internacional, condicionando-os a processo prévio de habilitação dos adotantes perante o governo de seu país, chancela desse processo no consulado brasileiro local e saída da criança somente depois de concluída a adoção definitiva, eliminando-se, assim, a figura da adoção simples e do termo de guarda.</descricao>
+    <descricao>O Estatuto da Criança e do Adolescente estabelece com rigor os processos de adoção internacional, condicionando-os a processo prévio de habilitação dos adotantes perante o governo de seu país, chancela desse processo no consulado brasileiro local e saída da criança somente depois de concluída a adoção definitiva, eliminando-se, assim, a figura da adoção simples e do termo de guarda.aaaaaaaaaaaaa</descricao>
     <contato></contato>
     <gratuito>false</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="3332">
+        <solicitante id="4362">
             <tipo>Cidadãos brasileiros ou estrangeiros e entidades sem fins lucrativos</tipo>
             <requisitos></requisitos>
         </solicitante>
@@ -27,26 +27,26 @@
         <descricao></descricao>
     </validade-documento>
     <etapas>
-        <etapa id="6422">
+        <etapa id="8278">
             <titulo>Solicitar cadastro</titulo>
             <descricao></descricao>
             <documentos>
                 <default>
-                    <item id="8291">Carteira de identidade</item>
-                    <item id="8292">Carteira de identidade de estrangeiro</item>
-                    <item id="8293">Carteira de trabalho</item>
-                    <item id="8294">Certidões de cartório</item>
-                    <item id="8295">Comprovante de endereço/residência</item>
-                    <item id="8296">Comprovante de pagamento</item>
-                    <item id="8297">Contrato Social</item>
-                    <item id="8298">CPF</item>
-                    <item id="8299">Passaporte</item>
-                    <item id="8300">Procuração do representante legal</item>
+                    <item id="11727">Carteira de identidade</item>
+                    <item id="11728">Carteira de identidade de estrangeiro</item>
+                    <item id="11729">Carteira de trabalho</item>
+                    <item id="11730">Certidões de cartório</item>
+                    <item id="11731">Comprovante de endereço/residência</item>
+                    <item id="11732">Comprovante de pagamento</item>
+                    <item id="11733">Contrato Social</item>
+                    <item id="11734">CPF</item>
+                    <item id="11735">Passaporte</item>
+                    <item id="11736">Procuração do representante legal</item>
                 </default>
             </documentos>
             <custos>
                 <default>
-                    <custo id="459">
+                    <custo id="843">
                         <descricao>Taxa de cadastramento</descricao>
                         <moeda>R$</moeda>
                         <valor>212,82</valor>
@@ -57,7 +57,7 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="6481" tipo="presencial">
+                    <canal-de-prestacao id="8696" tipo="presencial">
                         <descricao>Em uma [Delegacia de Imigração da Polícia Federal](http://www.pf.gov.br/institucional/unidades/superintendencias-e-delegacias)</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -68,8 +68,8 @@
         <nomeOrgao>Ministério da Justiça  (MJ)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="6311">Cidadãos</item>
-        <item idSegmento="4" idServicoSegmento="6312">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="1" idServicoSegmento="7949">Cidadãos</item>
+        <item idSegmento="4" idServicoSegmento="7950">Demais segmentos (ONGs, organizações sociais, etc)</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Cidadania</item>
@@ -82,8 +82,8 @@
         <item>Cooperação Internacional</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="12051">adoção</item>
-        <item id="12052">pais adotivos</item>
-        <item id="12053">polícia federal</item>
+        <item id="14902">adoção</item>
+        <item id="14903">pais adotivos</item>
+        <item id="14904">polícia federal</item>
     </palavras-chave>
 </servico>
