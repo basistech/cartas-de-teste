@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>acompanhar-processo-administrativo-punitivo</id>
+    <dbId>1156</dbId>
+    <nome>Acompanhar Processo Administrativo Punitivo</nome>
+    <sigla>PAP</sigla>
+    <nomes-populares>
+        <item id="2789">PAP - Processo Administrativo Punitivo</item>
+    </nomes-populares>
+    <descricao>O Conselho de Controle de Atividades Financeiras - COAF foi criado com a finalidade de disciplinar, aplicar penas administrativas, receber, examinar e identificar as ocorrências suspeitas de atividades ilícitas previstas na legislação. Assim, pessoas jurídicas e seus administradores, cumulativamente ou não, poderão sofrer sanções que incluem advertências, multas, inabilitação e temporária e até mesmo cassação ou suspensão da autorização para o exercício de atividade, operação ou funcionamento. As pessoas físicas ou jurídicas que estiverem respondendo a um PAP poderão utilizar este serviço para apresentar sua defesa e recursos
+
+- Teste
+- Teste 2
+
+1. Teste 1
+2. Teste 1</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="4373">
+            <tipo>Pessoas obrigadas respondendo a Processo Administrativo Punitivo</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="8294">
+            <titulo>Responder à intimação inicial</titulo>
+            <descricao>Ser Intimado quando da instauração do processo administrativo punitivo e tomar conhecimento do processo, podendo apresentar defesa e documentos adicionais.</descricao>
+            <documentos>
+                <default>
+                    <item id="11758">CPF</item>
+                    <item id="11759">CNPJ</item>
+                    <item id="11760">Contrato Social</item>
+                    <item id="11761">Procuração do representante legal</item>
+                    <item id="11762">Documentos comprobatórios de atendimento aos preceitos legais</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8732" tipo="postal">
+                        <descricao>**Conselho de Controle de Atividades Financeiras - COAF**       
+
+SAUN Qd 5 Lote C  Torre D   2º andar -         
+CEP: 70.040-250 - Asa Norte       
+Brasília/DF</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="8731" tipo="presencial">
+                        <descricao>**Conselho de Controle de Atividades Financeiras - COAF**       
+
+SAUN Qd 5 Lote C  Torre D   2º andar -         
+CEP: 70.040-250 - Asa Norte       
+Brasília/DF</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="8295">
+            <titulo>Responder à intimação para informação das penalidades</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default>
+                    <item id="11763">Carteira de Identidade (RG)</item>
+                    <item id="11764">CPF</item>
+                    <item id="11765">CNPJ</item>
+                    <item id="11766">Procuração do Representante Legal</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8733" tipo="presencial">
+                        <descricao>**Conselho de Controle de Atividades Financeiras - COAF**       
+
+SAUN Qd 5 Lote C  Torre D   2º andar -         
+CEP: 70.040-250 - Asa Norte       
+Brasília/DF</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="8734" tipo="postal">
+                        <descricao>**Conselho de Controle de Atividades Financeiras - COAF**       
+
+SAUN Qd 5 Lote C  Torre D   2º andar -         
+CEP: 70.040-250 - Asa Norte       
+Brasília/DF</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929" dbId="37529">
+        <nomeOrgao>Ministério da Fazenda (MF)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="7968">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="7969">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Administração financeira</item>
+        <item>Economia e Finanças</item>
+        <item>Fiscalização do Estado</item>
+        <item>Sistema Financeiro</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="14923">COAF</item>
+        <item id="14924">PAP</item>
+        <item id="14925">processo administrativo</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2608">[LEI Nº 9.613, DE 3 DE MARÇO DE 1998](http://www.planalto.gov.br/ccivil_03/leis/L9613.htm)</item>
+    </legislacoes>
+</servico>
