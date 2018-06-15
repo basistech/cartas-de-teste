@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>aaahhhh</id>
+    <dbId>3665</dbId>
+    <nome>aaahhhh</nome>
+    <sigla>aaaff</sigla>
+    <nomes-populares>
+        <item id="2797">dfff</item>
+    </nomes-populares>
+    <descricao>fffff</descricao>
+    <contato>ffff</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="4381">
+            <tipo>fff</tipo>
+            <requisitos>ff</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao>ffff</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao>fff</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="8316">
+            <titulo>fff</titulo>
+            <descricao>ff</descricao>
+            <documentos>
+                <default>
+                    <item id="11832">fff</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8765" tipo="presencial">
+                        <descricao>fff</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316" dbId="37532">
+        <nomeOrgao>Ministério da Justiça  (MJ)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="7982">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="7983">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Administração</item>
+        <item>Administração financeira</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="14949">hhh</item>
+        <item id="14950">hhhh</item>
+        <item id="14951">hhhh</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2610">hhhhhhh</item>
+    </legislacoes>
+</servico>
