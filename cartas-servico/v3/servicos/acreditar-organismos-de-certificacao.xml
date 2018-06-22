@@ -5,16 +5,16 @@
     <nome>Acreditar Organismos de Certificação</nome>
     <sigla></sigla>
     <nomes-populares>
-        <item id="2779">Acreditação</item>
+        <item id="2780">Acreditação</item>
     </nomes-populares>
-    <descricao>Atividades para reconhecer a competência técnica dos organismos de avaliação da conformidade que executam certificações de produtos, sistemas de gestão, pessoas, processos ou serviços, para isto, utiliza programas de acreditação, estabelecidos em Normas, cujos requisitos devem ser atendidos, plenamente, pelos solicitantes. Esta</descricao>
+    <descricao>Atividades para reconhecer a competência técnica dos organismos de avaliação da conformidade que executam certificações de produtos, sistemas de gestão, pessoas, processos ou serviços, para isto, utiliza programas de acreditação, estabelecidos em Normas, cujos requisitos devem ser atendidos, plenamente, pelos solicitantes. Eacreditação engloba as modalidades: produtos, pessoas e sistemas de gestão. A Dicor acredita organismos de certificação baseada no cumprimento dos requisitos estabelecidos nas seguintes Normas Internacionais para os diferentes tipos de avaliação da conformidade, além de critérios adicionais previstos nos procedimentos específicos de acreditação: - ABNT NBR ISO/IEC 17065 para Organismos de Certificação de Produtos; - ABNT NBR ISO/IEC 17021 para Organismos de Certificação de Sistemas de Gestão; - ABNT NBR ISO /IEC 17024 para Organismos de Certificação de Pessoas. Para o cadastro do organismo de certificação, deve ser solicitado à Dicor, através do e-mail dicor@inmetro.gov.br, um login e uma senha para acesso ao sistema “ORQUESTRA”. Por meio desse sistema, o Organismo envia a documentação e acompanha as etapas do processo.</descricao>
     <contato></contato>
     <gratuito>false</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="4363">
+        <solicitante id="4364">
             <tipo>Organismos de acreditação</tipo>
             <requisitos>aa</requisitos>
         </solicitante>
@@ -27,21 +27,21 @@
         <descricao>aaaaaaaa</descricao>
     </validade-documento>
     <etapas>
-        <etapa id="8282">
+        <etapa id="8284">
             <titulo>Solicitar acreditação</titulo>
             <descricao>aaa</descricao>
             <documentos>
                 <default>
-                    <item id="11746">CNPJ</item>
-                    <item id="11747">Contrato Social</item>
-                    <item id="11748">Informação biométrica</item>
-                    <item id="11749">Registro da Junta Comercial</item>
-                    <item id="11750">Documentos técnicos</item>
+                    <item id="11755">CNPJ</item>
+                    <item id="11756">Contrato Social</item>
+                    <item id="11757">Informação biométrica</item>
+                    <item id="11758">Registro da Junta Comercial</item>
+                    <item id="11759">Documentos técnicos</item>
                 </default>
             </documentos>
             <custos>
                 <default>
-                    <custo id="845">
+                    <custo id="846">
                         <descricao>Taxa de acreditação</descricao>
                         <moeda>R$</moeda>
                         <valor>9.672,00</valor>
@@ -52,27 +52,27 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="8705" tipo="web">
+                    <canal-de-prestacao id="8709" tipo="web">
                         <descricao>https://orquestra.inmetro.gov.br/workbase/wlogin.aspx</descricao>
                     </canal-de-prestacao>
-                    <canal-de-prestacao id="8706" tipo="e-mail">
+                    <canal-de-prestacao id="8710" tipo="e-mail">
                         <descricao>DICOR@INMETRO.GOV.BR</descricao>
                     </canal-de-prestacao>
-                    <canal-de-prestacao id="8707" tipo="telefone">
+                    <canal-de-prestacao id="8711" tipo="telefone">
                         <descricao>(21) 2563-2778</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="8283">
+        <etapa id="8285">
             <titulo>Receber visita técnica</titulo>
             <descricao></descricao>
             <documentos>
                 <default>
-                    <item id="11751">CNPJ</item>
-                    <item id="11752">Contrato Social</item>
-                    <item id="11753">Registro em Cartório</item>
-                    <item id="11754">Documentos técnicos</item>
+                    <item id="11760">CNPJ</item>
+                    <item id="11761">Contrato Social</item>
+                    <item id="11762">Registro em Cartório</item>
+                    <item id="11763">Documentos técnicos</item>
                 </default>
             </documentos>
             <custos>
@@ -80,7 +80,7 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="8708" tipo="presencial">
+                    <canal-de-prestacao id="8712" tipo="presencial">
                         <descricao>No organismo a ser creditado.</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -91,9 +91,9 @@
         <nomeOrgao>Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="3" idServicoSegmento="7961">Empresas</item>
-        <item idSegmento="2" idServicoSegmento="7962">Órgãos e entidades públicas</item>
-        <item idSegmento="4" idServicoSegmento="7963">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="3" idServicoSegmento="7964">Empresas</item>
+        <item idSegmento="2" idServicoSegmento="7965">Órgãos e entidades públicas</item>
+        <item idSegmento="4" idServicoSegmento="7966">Demais segmentos (ONGs, organizações sociais, etc)</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Administração e Gestão Pública</item>
@@ -101,8 +101,8 @@
         <item>Normalização e Qualidade</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="14929">certificação</item>
-        <item id="14930">acreditação</item>
-        <item id="14931">inmetro</item>
+        <item id="14932">certificação</item>
+        <item id="14933">acreditação</item>
+        <item id="14934">inmetro</item>
     </palavras-chave>
 </servico>
