@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>aaaddddd</id>
+    <dbId>3649</dbId>
+    <nome>aaaddddd</nome>
+    <sigla>fff</sigla>
+    <nomes-populares>
+        <item id="2783">ff</item>
+    </nomes-populares>
+    <descricao>ffsss</descricao>
+    <contato>aaa</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital></link-servico-digital>
+    <solicitantes>
+        <solicitante id="4368">
+            <tipo>fff</tipo>
+            <requisitos>dfff</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre min="10" max="20" unidade="minutos"/>
+        <descricao>aaaaaa</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao>aaaa</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="8301">
+            <titulo>ssssss</titulo>
+            <descricao>sssss</descricao>
+            <documentos>
+                <default>
+                    <item id="11768">ssssss</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <tempo-total-estimado>
+                <ate max="10" unidade="minutos"/>
+            </tempo-total-estimado>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8720" tipo="aplicativo-movel" procedimento-sistema-indisponivel="ssss">
+                        <descricao>ssss</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="8721" tipo="presencial" tempo-estimado-periodo="minutos" tempo-estimado-espera="30">
+                        <descricao>Teste</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925" dbId="58049">
+        <nomeOrgao>Ministério dos Direitos Humanos (MDH)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="7969">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração e Gestão Pública</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="14938">aaa</item>
+        <item id="14939">bbb</item>
+        <item id="14940">bbbb</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2606">aaa</item>
+    </legislacoes>
+    <condicoes-acessibilidade>aaaddddddddddddddd</condicoes-acessibilidade>
+    <tratamento-prioritario>aaaddddddddddddd</tratamento-prioritario>
+    <tratamento-dispensado-atendimento>aaawwwwwwwww</tratamento-dispensado-atendimento>
+</servico>
