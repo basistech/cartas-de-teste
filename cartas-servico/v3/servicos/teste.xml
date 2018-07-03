@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste</id>
+    <dbId>3676</dbId>
+    <nome>Teste</nome>
+    <sigla>teste</sigla>
+    <nomes-populares>
+        <item id="2786">aaa</item>
+    </nomes-populares>
+    <descricao>aaaddd</descricao>
+    <contato>gggg</contato>
+    <gratuito>false</gratuito>
+    <porcentagem-manual>false</porcentagem-manual>
+    <servico-digital>false</servico-digital>
+    <link-servico-digital>ddd</link-servico-digital>
+    <solicitantes>
+        <solicitante id="4371">
+            <tipo>ddddd</tipo>
+            <requisitos>ddddd</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <nao-estimado-ainda/>
+        <descricao>gfgggg</descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Sem validade</tipo>
+        <quantidade>0</quantidade>
+        <unidade></unidade>
+        <descricao>dddd</descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="8319">
+            <titulo>dd</titulo>
+            <descricao>dd</descricao>
+            <documentos>
+                <default>
+                    <item id="11774">ddddd</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <tempo-total-estimado>
+                <nao-estimado-ainda/>
+            </tempo-total-estimado>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="8728" tipo="presencial" tempo-estimado-periodo="minutos" tempo-estimado-espera="10">
+                        <descricao>ffffff</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/90" dbId="43381">
+        <nomeOrgao>Serviço Federal de Processamento de Dados (SERPRO)</nomeOrgao>
+    </orgao>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="7972">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="7973">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração e Gestão Pública</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="14951">fff</item>
+        <item id="14952">ffff</item>
+        <item id="14953">ggggg</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="2609">aaaaaaa</item>
+    </legislacoes>
+    <condicoes-acessibilidade>Condições de acessbilidade teste</condicoes-acessibilidade>
+    <tratamento-prioritario>Atendimento prioritario</tratamento-prioritario>
+    <tratamento-dispensado-atendimento>tratamento teste</tratamento-dispensado-atendimento>
+</servico>
