@@ -5,16 +5,16 @@
     <nome>Serviço teste avaliação</nome>
     <sigla>STA</sigla>
     <nomes-populares>
-        <item id="3025">avaliação</item>
+        <item id="3027">avaliação</item>
     </nomes-populares>
-    <descricao>Teste dd</descricao>
+    <descricao>Teste ddggg</descricao>
     <contato>Teste</contato>
     <gratuito>true</gratuito>
     <porcentagem-manual>false</porcentagem-manual>
     <servico-digital>false</servico-digital>
     <link-servico-digital></link-servico-digital>
     <solicitantes>
-        <solicitante id="4919">
+        <solicitante id="4921">
             <tipo>Todos</tipo>
             <requisitos>Ser brasileiro</requisitos>
         </solicitante>
@@ -30,12 +30,12 @@
         <descricao>Não tem validade</descricao>
     </validade-documento>
     <etapas>
-        <etapa id="8995">
+        <etapa id="8997">
             <titulo>Teste 1</titulo>
             <descricao>Teste</descricao>
             <documentos>
                 <default>
-                    <item id="13302">Identidade</item>
+                    <item id="13304">Identidade</item>
                 </default>
             </documentos>
             <custos>
@@ -46,7 +46,7 @@
             </tempo-total-estimado>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="9794" tipo="presencial" tempo-estimado-periodo="minutos" tempo-estimado-espera="30">
+                    <canal-de-prestacao id="9796" tipo="presencial" tempo-estimado-periodo="minutos" tempo-estimado-espera="30">
                         <descricao>Teste</descricao>
                     </canal-de-prestacao>
                 </default>
@@ -57,15 +57,15 @@
         <nomeOrgao>Ministério da Integração Nacional (MI)</nomeOrgao>
     </orgao>
     <segmentos-da-sociedade>
-        <item idSegmento="1" idServicoSegmento="8665">Cidadãos</item>
+        <item idSegmento="1" idServicoSegmento="8667">Cidadãos</item>
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Abastecimento</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="16378">teste1</item>
-        <item id="16379">teste2</item>
-        <item id="16380">teste3</item>
+        <item id="16384">teste1</item>
+        <item id="16385">teste2</item>
+        <item id="16386">teste3</item>
     </palavras-chave>
     <condicoes-acessibilidade>O usuário do serviço público, conforme estabelecido pela lei nº13.460/17, tem direito a atendimento presencial, quando necessário, em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.</condicoes-acessibilidade>
     <tratamento-prioritario>Tem direito a atendimento prioritário as pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos, conforme estabelecido pela lei 10.048, de 8 de novembro de 2000​</tratamento-prioritario>
