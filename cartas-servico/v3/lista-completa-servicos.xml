@@ -75,14 +75,14 @@
                 </custos>
                 <canais-de-prestacao>
                     <default>
-                        <canal-de-prestacao id="54" tipo="web-agendar">
-                            <descricao>http://siteprouni.mec.gov.br/</descricao>
+                        <canal-de-prestacao id="52" tipo="postal">
+                            <descricao>Av. Ipiranga 6681 - Prédio 99A - sala 218 – 2º andar. Porto Alegre - RS - Brasil. CEP 90619-900</descricao>
                         </canal-de-prestacao>
                         <canal-de-prestacao id="53" tipo="e-mail">
                             <descricao>brasil@gov.br</descricao>
                         </canal-de-prestacao>
-                        <canal-de-prestacao id="52" tipo="postal">
-                            <descricao>Av. Ipiranga 6681 - Prédio 99A - sala 218 – 2º andar. Porto Alegre - RS - Brasil. CEP 90619-900</descricao>
+                        <canal-de-prestacao id="54" tipo="web-agendar">
+                            <descricao>http://siteprouni.mec.gov.br/</descricao>
                         </canal-de-prestacao>
                     </default>
                     <caso id="21" descricao="Estudantes de primeiro grau">
