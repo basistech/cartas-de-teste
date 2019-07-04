@@ -75,14 +75,14 @@
                 </custos>
                 <canais-de-prestacao>
                     <default>
-                        <canal-de-prestacao id="54" tipo="web-agendar">
-                            <descricao>http://siteprouni.mec.gov.br/</descricao>
+                        <canal-de-prestacao id="52" tipo="postal">
+                            <descricao>Av. Ipiranga 6681 - Prédio 99A - sala 218 – 2º andar. Porto Alegre - RS - Brasil. CEP 90619-900</descricao>
                         </canal-de-prestacao>
                         <canal-de-prestacao id="53" tipo="e-mail">
                             <descricao>brasil@gov.br</descricao>
                         </canal-de-prestacao>
-                        <canal-de-prestacao id="52" tipo="postal">
-                            <descricao>Av. Ipiranga 6681 - Prédio 99A - sala 218 – 2º andar. Porto Alegre - RS - Brasil. CEP 90619-900</descricao>
+                        <canal-de-prestacao id="54" tipo="web-agendar">
+                            <descricao>http://siteprouni.mec.gov.br/</descricao>
                         </canal-de-prestacao>
                     </default>
                     <caso id="21" descricao="Estudantes de primeiro grau">
@@ -1587,77 +1587,5 @@ A Comissão de Avaliação poderá solicitar documentos e pareceres, colher depo
         <legislacoes>
             <item id="108">lei x</item>
         </legislacoes>
-    </servico>
-    <servico>
-        <id>servico-de-teste</id>
-        <dbId>84</dbId>
-        <nome>Serviço de teste</nome>
-        <sigla>ST</sigla>
-        <nomes-populares>
-            <item id="98">Serviço Teste</item>
-        </nomes-populares>
-        <descricao>Isto é um serviço de teste</descricao>
-        <contato>Contato de testes</contato>
-        <gratuito>true</gratuito>
-        <porcentagem-manual>false</porcentagem-manual>
-        <servico-digital>false</servico-digital>
-        <link-servico-digital>https://www.economia.gov.br</link-servico-digital>
-        <solicitantes>
-            <solicitante id="122">
-                <tipo>Tipo do solicitante 1</tipo>
-                <requisitos>Requisitos necessários para o solicitante 1</requisitos>
-            </solicitante>
-        </solicitantes>
-        <tempo-total-estimado>
-            <ate max="2" unidade="horas"/>
-            <descricao></descricao>
-        </tempo-total-estimado>
-        <validade-documento>
-            <tipo>Válido por</tipo>
-            <quantidade>10</quantidade>
-            <unidade>anos</unidade>
-            <descricao></descricao>
-        </validade-documento>
-        <etapas>
-            <etapa id="144">
-                <titulo>Título da etapa 1</titulo>
-                <descricao>Descrição da etapa 1</descricao>
-                <documentos>
-                    <default>
-                        <item id="344">Documentação necessária para a etapa 1</item>
-                    </default>
-                </documentos>
-                <custos>
-                    <default/>
-                </custos>
-                <canais-de-prestacao>
-                    <default>
-                        <canal-de-prestacao id="158" tipo="postal">
-                            <descricao>12, rua falsa</descricao>
-                        </canal-de-prestacao>
-                    </default>
-                    <caso id="66" descricao="Nome do Caso">
-                        <canal-de-prestacao id="157" tipo="e-mail">
-                            <descricao>caso@caso.com</descricao>
-                        </canal-de-prestacao>
-                    </caso>
-                </canais-de-prestacao>
-            </etapa>
-        </etapas>
-        <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988" dbId="37525">
-            <nomeOrgao>Ministério da Ciência Tecnologia e Inovação e Comunicações (MCTIC)</nomeOrgao>
-        </orgao>
-        <segmentos-da-sociedade>
-            <item idSegmento="1" idServicoSegmento="112">Cidadãos</item>
-        </segmentos-da-sociedade>
-        <areas-de-interesse>
-            <item>Abastecimento</item>
-            <item>Agropecuária</item>
-        </areas-de-interesse>
-        <palavras-chave>
-            <item id="235">água</item>
-            <item id="236">urbanismo</item>
-            <item id="237">turismo</item>
-        </palavras-chave>
     </servico>
 </servicos>
